@@ -321,7 +321,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-07T08:26:18Z",
+            "last_commit": "2026-08-14T03:17:38Z",
             "owner": "cocos",
             "repo": "cocos-test-projects",
             "stars": 326
@@ -532,7 +532,7 @@
             "last_commit": "2018-11-15T15:39:30Z",
             "owner": "tumobi",
             "repo": "pomelo-cocos-creator-awesome",
-            "stars": 397
+            "stars": 398
           }
         },
         {
@@ -1100,7 +1100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:49:38.282Z",
+    "last_updated": "2026-08-14T09:45:34.458Z",
     "original_repository": "Leo501/awesome-CocosCreator",
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
     "enhanced_repository": "enhansome/enhansome-CocosCreator",
