@@ -277,7 +277,7 @@ Cocos Creator 资源合集
 
 ### 支持gif
 
-* 支持2.0\~2.3 <https://github.com/baibai2013/cocos-creator-gifLib> ⭐ 64 | 🐛 0 | 🌐 TypeScript | 📅 2019-11-17
+* 支持2.0\~2.3 <https://github.com/baibai2013/cocos-creator-gifLib> ⭐ 65 | 🐛 0 | 🌐 TypeScript | 📅 2019-11-17
 * 支持2.4.4 <https://github.com/newGy/cocos-creator-gif-2.4.4/> ⭐ 34 | 🐛 0 | 🌐 TypeScript | 📅 2021-10-09
 
 ### 生成单Html包
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

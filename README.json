@@ -321,7 +321,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T03:17:38Z",
+            "last_commit": "2026-08-14T10:40:52Z",
             "owner": "cocos",
             "repo": "cocos-test-projects",
             "stars": 326
@@ -490,7 +490,7 @@
             "last_commit": "2019-12-05T03:54:34Z",
             "owner": "cocos-creator",
             "repo": "tutorial-blackjack-deprecated",
-            "stars": 819
+            "stars": 820
           }
         },
         {
@@ -1078,7 +1078,7 @@
             "last_commit": "2019-11-17T15:25:41Z",
             "owner": "baibai2013",
             "repo": "cocos-creator-gifLib",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -1100,7 +1100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:45:34.458Z",
+    "last_updated": "2026-08-15T09:10:23.528Z",
     "original_repository": "Leo501/awesome-CocosCreator",
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
     "enhanced_repository": "enhansome/enhansome-CocosCreator",
