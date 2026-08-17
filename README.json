@@ -310,7 +310,7 @@
             "last_commit": "2023-09-19T08:39:35Z",
             "owner": "cocos",
             "repo": "cocos-example-projects",
-            "stars": 578
+            "stars": 579
           }
         },
         {
@@ -1100,7 +1100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:11:26.167Z",
+    "last_updated": "2026-08-17T09:25:23.071Z",
     "original_repository": "Leo501/awesome-CocosCreator",
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
     "enhanced_repository": "enhansome/enhansome-CocosCreator",

@@ -40,7 +40,7 @@ Cocos Creator 资源合集
 
 * 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 799 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-07
 * 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
-* 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 273 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
+* 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 272 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
 * 物理弹球 <https://github.com/andynicoo/Physical-Pinball> ⭐ 156 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-15
 * 七彩蹦蹦 <https://github.com/shichaohui/ColorUp> ⭐ 155 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-16
 * 斗兽棋 <https://github.com/matchvs/AnimalChecker> ⭐ 102 | 🐛 2 | 🌐 JavaScript | 📅 2019-03-22
@@ -60,7 +60,7 @@ Cocos Creator 资源合集
 #### 3d游戏
 
 * 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 785 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
-* 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 578 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
+* 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 579 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
 * 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 326 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-14
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
 * Creator 3D 材质系统：曲面效果如何实现 <https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA>
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
