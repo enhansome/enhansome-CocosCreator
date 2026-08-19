@@ -957,7 +957,7 @@
             "archived": false,
             "id": 69218236,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T08:05:25Z",
+            "last_commit": "2026-08-19T10:23:09Z",
             "owner": "cocos",
             "repo": "cocos-docs",
             "stars": 399
@@ -1336,8 +1336,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:17:44.688Z",
+    "last_updated": "2026-08-19T12:14:23.048Z",
     "original_repository": "Leo501/awesome-CocosCreator",
+    "original_repository_id": 222900201,
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
     "enhanced_repository": "enhansome/enhansome-CocosCreator",
     "enhanced_repository_description": null,
