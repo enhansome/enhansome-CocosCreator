@@ -40,7 +40,7 @@ Cocos Creator 资源合集
 
 * 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 799 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-07
 * 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
-* 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 272 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
+* 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 271 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
 * 物理弹球 <https://github.com/andynicoo/Physical-Pinball> ⭐ 156 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-15
 * 七彩蹦蹦 <https://github.com/shichaohui/ColorUp> ⭐ 155 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-16
 * 斗兽棋 <https://github.com/matchvs/AnimalChecker> ⭐ 102 | 🐛 2 | 🌐 JavaScript | 📅 2019-03-22
@@ -55,7 +55,7 @@ Cocos Creator 资源合集
 
 ***
 
-* “建造+道具合成+塔防+攻城”模块的游戏前后端源码 <https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame> ⭐ 380 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-05
+* “建造+道具合成+塔防+攻城”模块的游戏前后端源码 <https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame> ⭐ 379 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-05
 
 #### 3d游戏
 
@@ -110,7 +110,7 @@ Cocos Creator 资源合集
 
 ### 官方手册
 
-* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 398 | 🐛 180 | 🌐 TypeScript | 📅 2026-06-09
+* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 399 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-19
 * 常见问题归纳 <https://github.com/Jno1995/CocosCreator-FAQ> ⭐ 36 | 🐛 0 | 📅 2022-03-14
 * 3d <https://github.com/cocos-creator/docs-3d> ⚠️ Archived
 
@@ -145,7 +145,7 @@ Cocos Creator 资源合集
 
 ### Shader
 
-* creator 2.x推出了新的Material系统 <https://github.com/fylz1125/ShaderDemos> ⭐ 1,010 | 🐛 9 | 🌐 GLSL | 📅 2019-06-26
+* creator 2.x推出了新的Material系统 <https://github.com/fylz1125/ShaderDemos> ⭐ 1,011 | 🐛 9 | 🌐 GLSL | 📅 2019-06-26
 * Cocos Creator Shader Effect 系列 <https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo> ⭐ 483 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-23
 * CocosCreator Effect第三方控件 <https://github.com/colin3dmax/CocosCreator> ⭐ 430 | 🐛 4 | 🌐 GLSL | 📅 2017-08-18
 * Cocos Creator 2.x Shader组件 <https://github.com/ShawnZhang2015/ShaderHelper> ⭐ 234 | 🐛 1 | 🌐 JavaScript | 📅 2019-03-20
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
