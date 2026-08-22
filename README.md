@@ -145,7 +145,7 @@ Cocos Creator 资源合集
 
 ### Shader
 
-* creator 2.x推出了新的Material系统 <https://github.com/fylz1125/ShaderDemos> ⭐ 1,011 | 🐛 9 | 🌐 GLSL | 📅 2019-06-26
+* creator 2.x推出了新的Material系统 <https://github.com/fylz1125/ShaderDemos> ⭐ 1,012 | 🐛 9 | 🌐 GLSL | 📅 2019-06-26
 * Cocos Creator Shader Effect 系列 <https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo> ⭐ 483 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-23
 * CocosCreator Effect第三方控件 <https://github.com/colin3dmax/CocosCreator> ⭐ 430 | 🐛 4 | 🌐 GLSL | 📅 2017-08-18
 * Cocos Creator 2.x Shader组件 <https://github.com/ShawnZhang2015/ShaderHelper> ⭐ 234 | 🐛 1 | 🌐 JavaScript | 📅 2019-03-20
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
