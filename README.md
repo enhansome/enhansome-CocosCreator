@@ -55,12 +55,12 @@ Cocos Creator 资源合集
 
 ***
 
-* “建造+道具合成+塔防+攻城”模块的游戏前后端源码 <https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame> ⭐ 379 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-05
+* “建造+道具合成+塔防+攻城”模块的游戏前后端源码 <https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame> ⭐ 380 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-05
 
 #### 3d游戏
 
 * 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 785 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
-* 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 579 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
+* 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 580 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
 * 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 327 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-21
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
 * Creator 3D 材质系统：曲面效果如何实现 <https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA>
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
