@@ -87,7 +87,7 @@ Cocos Creator 资源合集
 
 * 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,100 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
-* <https://github.com/ligun123/chess> ⭐ 471 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 471 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01
+* <https://github.com/ligun123/chess> ⭐ 472 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 472 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01
 * 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 429 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
 * 学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目 <https://github.com/tumobi/pomelo-cocos-creator-awesome> ⭐ 398 | 🐛 0 | 📅 2018-11-15
 * 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 286 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
@@ -197,8 +197,8 @@ Cocos Creator 资源合集
 
 ### 热更新
 
-* cocos creator热更新非官方实现方案 <https://forum.cocos.org/t/topic/106800>
 * 大厅+子游戏 <https://github.com/TopDiscover/QuickFramework> ⭐ 119 | 🐛 0 | 🌐 C++ | 📅 2025-02-12
+* cocos creator热更新非官方实现方案 <https://forum.cocos.org/t/topic/106800>
 * Asset Bundle 全解析 <https://mp.weixin.qq.com/s/IGuWoQKmd7Fzn5R0YMMq2Q>
 * [Creator2.x | Asset Bundle 全解析](https://forum.cocos.org/t/creator-asset-bundle/99886)
 * 新资源管理系统剖析 <https://mp.weixin.qq.com/s/HLQyh_LquAUc5PASu874xQ>
@@ -287,12 +287,12 @@ Cocos Creator 资源合集
 
 ### 优化
 
+* 【CocosTextMeshPro】一个文本渲染解决方案——支持字体颜色渐变、斜体、下划线、删除线、描边、镂空、阴影、辉光、顶点动画、新的排版模式 <https://github.com/LeeYip/cocos-text-mesh-pro> ⭐ 221 | 🐛 3 | 🌐 TypeScript | 📅 2025-01-19
 * 突破 Label 的缓存模式：CHAR 无限模式 <https://forum.cocos.org/t/label-2-char/97766>
 * 性能调优优化集锦 <https://mp.weixin.qq.com/s/OaZVFMq4vZIrVeSZb17ing>
 * 纹理压缩方案 <https://mp.weixin.qq.com/s/s-ykV2Nbp8Oc7H7PfUxW_w>
 * JavaScript兼容性问题规避 <https://mp.weixin.qq.com/s/b9nfWj8T3FcSHQUmOdAGgg>
 * 如何重绘「江南百景图」？近300页 PPT 免费分享 <https://forum.cocos.org/t/topic/121618/1>
-* 【CocosTextMeshPro】一个文本渲染解决方案——支持字体颜色渐变、斜体、下划线、删除线、描边、镂空、阴影、辉光、顶点动画、新的排版模式 <https://github.com/LeeYip/cocos-text-mesh-pro> ⭐ 221 | 🐛 3 | 🌐 TypeScript | 📅 2025-01-19
 * \[噼里啪啦]虚拟列表+渲染合批，通用不改引擎，支持2.4.x和3.8.x，开源且简单 <https://forum.cocos.org/t/topic/159193>
 * 分享MultiTexture实现过程中的心得（兼容web与native、支持Sprite不同渲染Type、支持Cocos自动图集与动态合图的纹理、支持动态修改合批的纹理） <https://forum.cocos.org/t/topic/137651>
 * \[噼里啪啦]虚拟列表+渲染合批，通用不改引擎，支持2.4.x和3.8.x，开源且简单 <https://forum.cocos.org/t/topic/159193>

@@ -488,6 +488,21 @@
             "repo": "BasketBall",
             "stars": 4
           }
+        },
+        {
+          "node_type": "item",
+          "title": "“建造+道具合成+塔防+攻城”模块的游戏前后端源码 https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 232964451,
+            "language": "JavaScript",
+            "last_commit": "2023-05-05T02:20:49Z",
+            "owner": "genxium",
+            "repo": "BuildingAndCraftingAndTowerDefenseGame",
+            "stars": 380
+          }
         }
       ],
       "title": "成品"
@@ -729,7 +744,7 @@
             "last_commit": "2020-10-01T07:46:04Z",
             "owner": "WhoIsYourBaby",
             "repo": "chess",
-            "stars": 471
+            "stars": 472
           }
         },
         {
@@ -1172,6 +1187,116 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ccc-devtools https://github.com/potato47/ccc-devtools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163127075,
+                "language": "TypeScript",
+                "last_commit": "2026-04-05T13:45:54Z",
+                "owner": "potato47",
+                "repo": "ccc-devtools",
+                "stars": 1259
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "调试工具"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "build & optimize & deploy https://github.com/babyzone2004/cocos-fly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113762012,
+                "language": "JavaScript",
+                "last_commit": "2019-05-16T02:36:26Z",
+                "owner": "babyzone2004",
+                "repo": "cocos-fly",
+                "stars": 135
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "H5构建"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "免费插件 https://github.com/tidys/CocosCreatorPlugins",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113842607,
+                "language": "JavaScript",
+                "last_commit": "2021-03-21T10:52:05Z",
+                "owner": "tidys",
+                "repo": "CocosCreatorPlugins",
+                "stars": 697
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "插件"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "大厅+子游戏 https://github.com/TopDiscover/QuickFramework",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266721585,
+                "language": "C++",
+                "last_commit": "2025-02-12T03:10:21Z",
+                "owner": "TopDiscover",
+                "repo": "QuickFramework",
+                "stars": 119
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "热更新"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "资源加密方案 https://github.com/zhitaocai/CocosCreator-Build-Encrypt",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277742111,
+                "language": "TypeScript",
+                "last_commit": "2026-01-20T19:55:00Z",
+                "owner": "zhitaocai",
+                "repo": "CocosCreator-Build-Encrypt",
+                "stars": 121
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "资源加密"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "奎特尔星球上的UI大杀器 https://github.com/ShawnZhang2015/uikiller",
               "description": null,
               "children": [],
@@ -1209,6 +1334,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "GodGuide https://github.com/ShawnZhang2015/GodGuide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207188949,
+                "language": "JavaScript",
+                "last_commit": "2020-04-12T06:25:45Z",
+                "owner": "ShawnZhang2015",
+                "repo": "GodGuide",
+                "stars": 178
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "新手引导"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "一个基于 OpenGL 和 Creator 的攻击范围绘制Demo https://github.com/shpz/AttackArea",
               "description": null,
               "children": [],
@@ -1241,6 +1388,28 @@
           "description": null,
           "node_type": "group",
           "title": "OpenGL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "多人在线pv https://github.com/wheatup/scrabble",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174954127,
+                "language": "TypeScript",
+                "last_commit": "2022-12-10T18:08:55Z",
+                "owner": "wheatup",
+                "repo": "scrabble",
+                "stars": 160
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Websocket多人在线"
         },
         {
           "children": [
@@ -1298,6 +1467,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "https://github.com/sky068/AstarCreator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123219033,
+                "language": "JavaScript",
+                "last_commit": "2018-02-28T03:11:38Z",
+                "owner": "sky068",
+                "repo": "AstarCreator",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "astar算法寻路"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/behavior3/behavior3editor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37464026,
+                "language": "JavaScript",
+                "last_commit": "2022-12-06T10:10:34Z",
+                "owner": "behavior3",
+                "repo": "behavior3editor",
+                "stars": 704
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI行为树"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "支持2.0~2.3 https://github.com/baibai2013/cocos-creator-gifLib",
               "description": null,
               "children": [],
@@ -1330,13 +1543,123 @@
           "description": null,
           "node_type": "group",
           "title": "支持gif"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "支持2.0~2.3 https://github.com/fkworld/cocos-to-playable-ad",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211636819,
+                "language": "TypeScript",
+                "last_commit": "2020-07-28T15:11:36Z",
+                "owner": "fkworld",
+                "repo": "cocos-to-playable-ad",
+                "stars": 111
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "生成单Html包"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "【CocosTextMeshPro】一个文本渲染解决方案——支持字体颜色渐变、斜体、下划线、删除线、描边、镂空、阴影、辉光、顶点动画、新的排版模式 https://github.com/LeeYip/cocos-text-mesh-pro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 524127341,
+                "language": "TypeScript",
+                "last_commit": "2025-01-19T13:32:40Z",
+                "owner": "LeeYip",
+                "repo": "cocos-text-mesh-pro",
+                "stars": 221
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "优化"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "贝塞尔曲线的路径实现 https://github.com/haoyuan336/cocoscreator3dBezier/tree/master/Bezier",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296475655,
+                "language": "TypeScript",
+                "last_commit": "2020-09-18T10:26:03Z",
+                "owner": "haoyuan336",
+                "repo": "cocoscreator3dBezier",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "曲线"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "极光推送sdk https://github.com/longyinzaitian/JiGuangIntegration",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230717451,
+                "language": "Java",
+                "last_commit": "2019-12-29T09:57:53Z",
+                "owner": "longyinzaitian",
+                "repo": "JiGuangIntegration",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "原生第三方sdk"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "spine转龙骨工具 https://github.com/DragonBones/Tools/blob/master/README-zh_CN.md",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100478970,
+                "language": "HTML",
+                "last_commit": "2022-06-09T08:39:03Z",
+                "owner": "DragonBones",
+                "repo": "Tools",
+                "stars": 169
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "工具"
         }
       ],
       "title": "引擎"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:31:45.784Z",
+    "last_updated": "2026-08-24T14:02:25.055Z",
     "original_repository": "Leo501/awesome-CocosCreator",
     "original_repository_id": 222900201,
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
