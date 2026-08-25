@@ -734,7 +734,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ligun123/chess",
+          "title": "WhoIsYourBaby/chess",
           "description": "https://github.com/ligun123/chess",
           "children": [],
           "repo_info": {
@@ -972,7 +972,7 @@
             "archived": false,
             "id": 69218236,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:23:09Z",
+            "last_commit": "2026-08-25T04:12:02Z",
             "owner": "cocos",
             "repo": "cocos-docs",
             "stars": 399
@@ -1016,7 +1016,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/2youyou2/physics-example",
+          "title": "2youyou2/physics-example",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1467,7 +1467,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/sky068/AstarCreator",
+              "title": "sky068/AstarCreator",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1489,7 +1489,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/behavior3/behavior3editor",
+              "title": "behavior3/behavior3editor",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:02:25.055Z",
+    "last_updated": "2026-08-25T05:55:26.507Z",
     "original_repository": "Leo501/awesome-CocosCreator",
     "original_repository_id": 222900201,
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
