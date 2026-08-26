@@ -26,7 +26,7 @@ Cocos Creator 资源合集
 * facebook纸牌2048 <https://github.com/NorhsArk/Cocos_2048Solitare> ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-21
 * facebook一笔画2 <https://github.com/NorhsArk/Cocos_OneDraw2> ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-21
 * facebook方块十消 <https://github.com/NorhsArk/Cocos_1010> ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-21
-* facebook迷宫变种 <https://github.com/NorhsArk/Cocos_MazesCross> ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-21
+* facebook迷宫变种 <https://github.com/NorhsArk/Cocos_MazesCross> ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-21
 * facebook一笔画 <https://github.com/NorhsArk/Cocos_OneDraw> ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-21
 * facebook打枪 <https://github.com/NorhsArk/Cocos_LastGun> ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-21
 * facebook拼盘 <https://github.com/NorhsArk/Cocos_FunnySlice> ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-21
@@ -38,7 +38,7 @@ Cocos Creator 资源合集
 
 ***
 
-* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 800 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-07
+* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 802 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-07
 * 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
 * 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 271 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
 * 物理弹球 <https://github.com/andynicoo/Physical-Pinball> ⭐ 156 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-15
@@ -85,10 +85,10 @@ Cocos Creator 资源合集
 
 ### 棋牌
 
-* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,100 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
+* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,101 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
 * <https://github.com/ligun123/chess> ⭐ 472 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 472 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01
-* 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 429 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
+* 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 430 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
 * 学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目 <https://github.com/tumobi/pomelo-cocos-creator-awesome> ⭐ 398 | 🐛 0 | 📅 2018-11-15
 * 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 286 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
 * poker-game-demo <https://github.com/zifeiy/poker-game-demo> ⭐ 252 | 🐛 2 | 🌐 JavaScript | 📅 2017-09-19
@@ -110,7 +110,7 @@ Cocos Creator 资源合集
 
 ### 官方手册
 
-* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 399 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-25
+* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 400 | 🐛 181 | 🌐 TypeScript | 📅 2026-08-25
 * 常见问题归纳 <https://github.com/Jno1995/CocosCreator-FAQ> ⭐ 36 | 🐛 0 | 📅 2022-03-14
 * 3d <https://github.com/cocos-creator/docs-3d> ⚠️ Archived
 
@@ -273,7 +273,7 @@ Cocos Creator 资源合集
 
 ### AI行为树
 
-* <https://github.com/behavior3/behavior3editor> ⭐ 704 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
+* <https://github.com/behavior3/behavior3editor> ⭐ 705 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
 
 ### 支持gif
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

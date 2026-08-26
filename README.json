@@ -201,7 +201,7 @@
             "last_commit": "2018-12-21T06:25:42Z",
             "owner": "NorhsArk",
             "repo": "Cocos_MazesCross",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-02-07T14:23:44Z",
             "owner": "isghost",
             "repo": "kaixinxiaoxiaole",
-            "stars": 800
+            "stars": 802
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2024-06-14T02:49:03Z",
             "owner": "yuanfengyun",
             "repo": "q_algorithm",
-            "stars": 2100
+            "stars": 2101
           }
         },
         {
@@ -759,7 +759,7 @@
             "last_commit": "2018-07-08T10:36:56Z",
             "owner": "xiyoufang",
             "repo": "mahjong",
-            "stars": 429
+            "stars": 430
           }
         },
         {
@@ -972,10 +972,10 @@
             "archived": false,
             "id": 69218236,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:12:02Z",
+            "last_commit": "2026-08-25T10:01:39Z",
             "owner": "cocos",
             "repo": "cocos-docs",
-            "stars": 399
+            "stars": 400
           }
         },
         {
@@ -1499,7 +1499,7 @@
                 "last_commit": "2022-12-06T10:10:34Z",
                 "owner": "behavior3",
                 "repo": "behavior3editor",
-                "stars": 704
+                "stars": 705
               }
             }
           ],
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:20:46.939Z",
+    "last_updated": "2026-08-26T09:25:59.671Z",
     "original_repository": "Leo501/awesome-CocosCreator",
     "original_repository_id": 222900201,
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
