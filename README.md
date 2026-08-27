@@ -85,7 +85,7 @@ Cocos Creator 资源合集
 
 ### 棋牌
 
-* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,101 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
+* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,100 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
 * <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01
 * 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 430 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
