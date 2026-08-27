@@ -30,7 +30,7 @@
             "last_commit": "2020-06-04T02:26:08Z",
             "owner": "caochao",
             "repo": "cocos_creator_proj_base",
-            "stars": 846
+            "stars": 847
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2023-09-19T08:39:35Z",
             "owner": "cocos",
             "repo": "cocos-example-projects",
-            "stars": 580
+            "stars": 581
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2020-10-01T07:46:04Z",
             "owner": "WhoIsYourBaby",
             "repo": "chess",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -1659,9 +1659,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:25:59.671Z",
-    "original_repository": "Leo501/awesome-CocosCreator",
-    "original_repository_id": 222900201,
+    "last_updated": "2026-08-27T11:29:44.848Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 222900201,
+      "language": null,
+      "last_commit": "2024-10-29T16:25:13Z",
+      "owner": "Leo501",
+      "repo": "awesome-CocosCreator",
+      "stars": 3158
+    },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
     "enhanced_repository": "enhansome/enhansome-CocosCreator",
     "enhanced_repository_description": null,
