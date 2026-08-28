@@ -8,8 +8,8 @@ Cocos Creator 资源合集
 
 * cocos creator 基础框架，包含资源、ui管理，网络模块 <https://github.com/wyb10a10/cocos_creator_framework> ⭐ 1,045 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-21
 * cocos creator项目基础类库 <https://github.com/caochao/cocos_creator_proj_base> ⭐ 847 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
-* CocosCreator\_UIFrameWork <https://github.com/kirikayakazuto/CocosCreator_UIFrameWork> ⭐ 811 | 🐛 9 | 🌐 TypeScript | 📅 2024-03-20
-* cocos creator 的 mvvm 的工具 集 <https://github.com/wsssheep/cocos_creator_mvvm_tools> ⭐ 546 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24
+* CocosCreator\_UIFrameWork <https://github.com/kirikayakazuto/CocosCreator_UIFrameWork> ⭐ 810 | 🐛 9 | 🌐 TypeScript | 📅 2024-03-20
+* cocos creator 的 mvvm 的工具 集 <https://github.com/wsssheep/cocos_creator_mvvm_tools> ⭐ 545 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24
 * GameplayFramework <https://github.com/huangx916/GameplayFramework> ⭐ 306 | 🐛 2 | 🌐 TypeScript | 📅 2019-07-31
 * ECS框架 <https://github.com/darkoverlordofdata/entitas-ts> ⭐ 223 | 🐛 3 | 🌐 TypeScript | 📅 2017-03-28
 * lightMVC [https://github.com/yue19870813/lightMVC](https://github.com/yue19870813/ituuz-x) ⭐ 150 | 🐛 3 | 🌐 TypeScript | 📅 2020-05-26
@@ -88,9 +88,9 @@ Cocos Creator 资源合集
 * 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,100 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
 * <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01
-* 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 430 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
+* 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 431 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
 * 学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目 <https://github.com/tumobi/pomelo-cocos-creator-awesome> ⭐ 398 | 🐛 0 | 📅 2018-11-15
-* 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 286 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
+* 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 287 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
 * poker-game-demo <https://github.com/zifeiy/poker-game-demo> ⭐ 252 | 🐛 2 | 🌐 JavaScript | 📅 2017-09-19
 * 帧同步打造3D台球 <https://github.com/EricDDK/billiards_cocos2d> ⭐ 162 | 🐛 2 | 🌐 C++ | 📅 2019-05-22
 * 棋牌类游戏框架，参考网狐 <https://github.com/shihuaping/gamex> ⭐ 157 | 🐛 4 | 🌐 JavaScript | 📅 2020-01-08
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
