@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cocos creator 基础框架，包含资源、ui管理，网络模块",
+            "homepage": null,
             "id": 212480760,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-21T09:16:32Z",
+            "open_issues": 5,
             "owner": "wyb10a10",
             "repo": "cocos_creator_framework",
-            "stars": 1045
+            "stars": 1045,
+            "topics": [
+              "cocos",
+              "cocos-creator",
+              "framework",
+              "websokcet"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -26,12 +36,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等",
+            "homepage": null,
             "id": 108063881,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-06-04T02:26:08Z",
+            "open_issues": 8,
             "owner": "caochao",
             "repo": "cocos_creator_proj_base",
-            "stars": 847
+            "stars": 847,
+            "topics": [
+              "cocos-creator",
+              "recycleview"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -42,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于CocosCreator的轻量框架, 主要是针对单场景的游戏管理, 将界面制作成预制体, 提供了对界面预制体的显示, 隐藏, 释放等功能, 游戏管理更简单!",
+            "homepage": "https://www.honmono.top",
             "id": 184450807,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-20T16:37:47Z",
+            "open_issues": 9,
             "owner": "kirikayakazuto",
             "repo": "CocosCreator_UIFrameWork",
-            "stars": 810
+            "stars": 810,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -58,12 +81,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "适用于cocos creator 的 mvvm 的工具 集，摆脱传统设置节点属性来控制 UI 的方式",
+            "homepage": null,
             "id": 182818136,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-11-24T03:37:23Z",
+            "open_issues": 14,
             "owner": "wsssheep",
             "repo": "cocos_creator_mvvm_tools",
-            "stars": 545
+            "stars": 545,
+            "topics": [
+              "cocos-creator",
+              "mvvm"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -74,12 +105,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GameplayFramework for CocosCreator Games",
+            "homepage": "https://huangx916.github.io/2019/01/01/gameplayframework/",
             "id": 163791450,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-07-31T03:58:50Z",
+            "open_issues": 2,
             "owner": "huangx916",
             "repo": "GameplayFramework",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "cocos-creator",
+              "cocoscreator-instant-games",
+              "framework",
+              "gulp",
+              "shaders"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -90,12 +132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Entitas ECS Typescript implementation",
+            "homepage": "http://darkoverlordofdata.github.io/entitas-ts",
             "id": 44125739,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2017-03-28T20:04:36Z",
+            "open_issues": 3,
             "owner": "darkoverlordofdata",
             "repo": "entitas-ts",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -106,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ituuz-x是一个cocos creator游戏开发一个集成框架，也是一个工具集。其包括常用用的项目管理的mvc架构，以及静态数据、本地化、资源管理、网络等模块，后续还会不断拓展新的模块或工具。",
+            "homepage": null,
             "id": 100670268,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-05-26T12:19:08Z",
+            "open_issues": 3,
             "owner": "yue19870813",
             "repo": "ituuz-x",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -122,12 +174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cocos creator",
+            "homepage": null,
             "id": 75709006,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-07T07:48:31Z",
+            "open_issues": 2,
             "owner": "tonyshow",
             "repo": "tonyCocosCreatorDamo",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -138,12 +195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "creator开发前端框架",
+            "homepage": null,
             "id": 135308786,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2018-05-29T12:49:29Z",
+            "open_issues": 0,
             "owner": "m249212419",
             "repo": "CreatorClient",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         }
@@ -160,12 +222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "facebook纸牌2048",
+            "homepage": null,
             "id": 162673704,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-21T06:12:40Z",
+            "open_issues": 0,
             "owner": "NorhsArk",
             "repo": "Cocos_2048Solitare",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -176,12 +243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "facebook一笔画2",
+            "homepage": null,
             "id": 162674995,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-21T06:27:00Z",
+            "open_issues": 0,
             "owner": "NorhsArk",
             "repo": "Cocos_OneDraw2",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -192,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "facebook方块十消",
+            "homepage": null,
             "id": 162663919,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-21T06:08:45Z",
+            "open_issues": 0,
             "owner": "NorhsArk",
             "repo": "Cocos_1010",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -208,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "facebook迷宫变种",
+            "homepage": null,
             "id": 162674856,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-21T06:25:42Z",
+            "open_issues": 0,
             "owner": "NorhsArk",
             "repo": "Cocos_MazesCross",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -224,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "facebook一笔画",
+            "homepage": null,
             "id": 162674394,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-21T06:20:25Z",
+            "open_issues": 0,
             "owner": "NorhsArk",
             "repo": "Cocos_OneDraw",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -240,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "facebook打枪",
+            "homepage": null,
             "id": 162674936,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-21T06:26:21Z",
+            "open_issues": 0,
             "owner": "NorhsArk",
             "repo": "Cocos_LastGun",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -256,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "facebook拼盘",
+            "homepage": null,
             "id": 162673923,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-21T06:14:55Z",
+            "open_issues": 0,
             "owner": "NorhsArk",
             "repo": "Cocos_FunnySlice",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -272,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "facebook鼻涕",
+            "homepage": null,
             "id": 162674742,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-21T06:24:07Z",
+            "open_issues": 0,
             "owner": "NorhsArk",
             "repo": "Cocos_Nose",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -288,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "facebook爬楼",
+            "homepage": null,
             "id": 162674180,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-21T06:18:03Z",
+            "open_issues": 1,
             "owner": "NorhsArk",
             "repo": "Cocos_RiseUp",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -304,12 +411,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用cocos creator 编写的三消游戏 开心消消乐",
+            "homepage": null,
             "id": 70960374,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-07T14:23:44Z",
+            "open_issues": 6,
             "owner": "isghost",
             "repo": "kaixinxiaoxiaole",
-            "stars": 802
+            "stars": 802,
+            "topics": [
+              "cocos2d-x",
+              "game-2d",
+              "game-demo"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -320,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "第一次提交",
+            "homepage": null,
             "id": 71085667,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-17T01:54:52Z",
+            "open_issues": 1,
             "owner": "shenghy",
             "repo": "Cocos_Basement",
-            "stars": 326
+            "stars": 326,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -336,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "六边形消除游戏(cocos creator制作)",
+            "homepage": "http://wubuzi.github.io/LBXGame/",
             "id": 22456575,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-09T04:47:16Z",
+            "open_issues": 3,
             "owner": "wijat",
             "repo": "LBXGame",
-            "stars": 271
+            "stars": 271,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -352,12 +478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator 2.0.1 + Javascript 物理弹球",
+            "homepage": null,
             "id": 148139948,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-10-15T02:11:49Z",
+            "open_issues": 2,
             "owner": "andynicoo",
             "repo": "Physical-Pinball",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -368,12 +499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator 微信小游戏《七彩蹦蹦》",
+            "homepage": null,
             "id": 173060012,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-16T06:49:45Z",
+            "open_issues": 0,
             "owner": "shichaohui",
             "repo": "ColorUp",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -384,12 +520,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CC游戏案例之 斗兽棋",
+            "homepage": null,
             "id": 142982794,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-03-22T04:07:40Z",
+            "open_issues": 2,
             "owner": "matchvs",
             "repo": "AnimalChecker",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "coco"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -400,12 +543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于CocosCreator-2.2.2版本开发的俄罗斯方块小游戏，语言TypeScript，注释很全，适合学习用！--KUOKUO",
+            "homepage": null,
             "id": 251025635,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-04-14T13:53:07Z",
+            "open_issues": 1,
             "owner": "KuoKuo666",
             "repo": "CocosCreator-Tetris",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -416,12 +564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "龙潭老鼠，微信小游戏，1V1匹配赛马，前端cocos creator，后端netty，数据库Redis",
+            "homepage": null,
             "id": 199422535,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-06-27T15:57:18Z",
+            "open_issues": 0,
             "owner": "robot518",
             "repo": "HorseRace",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -432,12 +585,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 130022040,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-12T05:44:44Z",
+            "open_issues": 1,
             "owner": "jay602",
             "repo": "stone_war",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -448,12 +606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "治愈七夕，微信小游戏，音乐游戏，cocos creator",
+            "homepage": null,
             "id": 197036007,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-06-27T16:22:06Z",
+            "open_issues": 0,
             "owner": "robot518",
             "repo": "MusicGame",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -464,12 +627,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: 2D卷轴闯关小游戏",
+            "homepage": null,
             "id": 137478625,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-09-06T03:39:45Z",
+            "open_issues": 1,
             "owner": "koiking129",
             "repo": "Play",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "2d-platformer",
+              "cocos-creator",
+              "game"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -480,12 +652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "八年账单(CocosCreator开发的密室逃脱类小游戏)",
+            "homepage": "https://liang3472.github.io/game/secret-bill/",
             "id": 118705419,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-02-20T09:24:19Z",
+            "open_issues": 0,
             "owner": "fylz1125",
             "repo": "SecretBill",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -496,12 +673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "弹跳小卜源码",
+            "homepage": null,
             "id": 146306044,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-08-27T14:32:09Z",
+            "open_issues": 0,
             "owner": "ccx01",
             "repo": "Boo",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -512,12 +694,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CocosCreator开发的篮球小游戏",
+            "homepage": "https://liang3472.github.io/game/basketball/",
             "id": 118704068,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-12-07T08:12:35Z",
+            "open_issues": 0,
             "owner": "fylz1125",
             "repo": "BasketBall",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -528,12 +715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 232964451,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-05T02:20:49Z",
+            "open_issues": 2,
             "owner": "genxium",
             "repo": "BuildingAndCraftingAndTowerDefenseGame",
-            "stars": 380
+            "stars": 380,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         }
@@ -550,12 +742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CocosCreator基础教程demo集合",
+            "homepage": null,
             "id": 125846008,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-30T16:19:29Z",
+            "open_issues": 2,
             "owner": "Leo501",
             "repo": "CocosCreatorTutorial",
-            "stars": 785
+            "stars": 785,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -566,12 +763,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 156332859,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-09-19T08:39:35Z",
+            "open_issues": 9,
             "owner": "cocos",
             "repo": "cocos-example-projects",
-            "stars": 581
+            "stars": 581,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -582,12 +784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 196004913,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-21T08:32:15Z",
+            "open_issues": 7,
             "owner": "cocos",
             "repo": "cocos-test-projects",
-            "stars": 327
+            "stars": 327,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -598,12 +805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A jumping ball demo created by Cocos Creator 3D",
+            "homepage": null,
             "id": 218431802,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-07-12T08:09:32Z",
+            "open_issues": 2,
             "owner": "cocos",
             "repo": "cocos-example-ball",
-            "stars": 211
+            "stars": 211,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         }
@@ -620,12 +832,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 71569333,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-21T14:20:05Z",
+            "open_issues": 2,
             "owner": "mankiw",
             "repo": "xiaoxiao",
-            "stars": 232
+            "stars": 232,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -636,12 +853,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator 1.5 打砖块",
+            "homepage": null,
             "id": 94232872,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-13T16:40:21Z",
+            "open_issues": 0,
             "owner": "potato47",
             "repo": "brick-breaker-master",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -652,12 +874,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "躲猫猫 - (cocos creator + pomelo)",
+            "homepage": null,
             "id": 84964562,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-24T07:50:54Z",
+            "open_issues": 1,
             "owner": "wohow",
             "repo": "peekaboo-master",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -668,12 +895,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cocos临摹组件，只能web平台使用",
+            "homepage": null,
             "id": 335488479,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-02-03T03:05:13Z",
+            "open_issues": 0,
             "owner": "Amterasu",
             "repo": "writerDemo",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -684,12 +916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cocos creator tankwar",
+            "homepage": null,
             "id": 76633074,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-12-16T07:59:46Z",
+            "open_issues": 0,
             "owner": "m249212419",
             "repo": "tankwar",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -700,12 +937,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator开发的贪吃蛇",
+            "homepage": null,
             "id": 90596291,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-09T01:57:00Z",
+            "open_issues": 0,
             "owner": "dixonzhang",
             "repo": "ccc_snake",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -716,12 +958,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator开发的六边形游戏 | Hexagon | 仿 Hex FRVR 小游戏",
+            "homepage": null,
             "id": 100695742,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-08-18T11:22:16Z",
+            "open_issues": 0,
             "owner": "hellozhangran",
             "repo": "game-hexagon",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "2d-game",
+              "cocos",
+              "cocos-creator",
+              "frvr",
+              "hex",
+              "hexagon"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -732,12 +986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ccc 斗兽棋",
+            "homepage": null,
             "id": 132489350,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-27T13:32:48Z",
+            "open_issues": 0,
             "owner": "m249212419",
             "repo": "doushouqi",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         }
@@ -754,12 +1013,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "棋牌的胡牌算法，包括麻将、跑胡子、扑克。实现 lua 、c++ 、c# 、golang 、js 、java 、python 版本。( Mahjong  algorithm )",
+            "homepage": null,
             "id": 77876960,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-06-14T02:49:03Z",
+            "open_issues": 20,
             "owner": "yuanfengyun",
             "repo": "q_algorithm",
-            "stars": 2100
+            "stars": 2100,
+            "topics": [
+              "algorithm",
+              "doudizhu",
+              "lua",
+              "majhong",
+              "paohuzi"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -770,12 +1040,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Blackjack game made with Cocos Creator.",
+            "homepage": null,
             "id": 48581043,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-05T03:54:34Z",
+            "open_issues": 6,
             "owner": "cocos-creator",
             "repo": "tutorial-blackjack-deprecated",
-            "stars": 819
+            "stars": 819,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -786,12 +1061,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用pomelo+CocosCreator开发的棋牌游戏集",
+            "homepage": null,
             "id": 103500176,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-10-01T07:46:04Z",
+            "open_issues": 269,
             "owner": "WhoIsYourBaby",
             "repo": "chess",
-            "stars": 473
+            "stars": 473,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -802,12 +1082,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法",
+            "homepage": null,
             "id": 140086514,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-07-08T10:36:56Z",
+            "open_issues": 2,
             "owner": "xiyoufang",
             "repo": "mahjong",
-            "stars": 431
+            "stars": 431,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -818,12 +1103,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目，微信号：tumobi",
+            "homepage": "https://www.nideshop.com/",
             "id": 106294349,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-11-15T15:39:30Z",
+            "open_issues": 0,
             "owner": "tumobi",
             "repo": "pomelo-cocos-creator-awesome",
-            "stars": 398
+            "stars": 398,
+            "topics": [
+              "awesome",
+              "cocos-creator",
+              "pomelo",
+              "pomelo-cocos"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -834,12 +1129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "creator实现单机捕鱼达人，TS版",
+            "homepage": null,
             "id": 164645788,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-04-25T08:19:14Z",
+            "open_issues": 2,
             "owner": "fylz1125",
             "repo": "CCFish",
-            "stars": 287
+            "stars": 287,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -850,12 +1150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A chess game implements China chess game -- hongshi.It's client is writen by cocos creator,it's server is writen by node.js,and the server is a very simple server.use MySQL to store information.",
+            "homepage": null,
             "id": 103945170,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-09-19T02:49:05Z",
+            "open_issues": 2,
             "owner": "zifeiy",
             "repo": "poker-game-demo",
-            "stars": 252
+            "stars": 252,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -866,12 +1171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a 3D billiards game with frame synchronization by cocos2d-x lua. ",
+            "homepage": null,
             "id": 135028595,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-22T03:29:37Z",
+            "open_issues": 2,
             "owner": "EricDDK",
             "repo": "billiards_cocos2d",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -882,12 +1192,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "棋牌类游戏框架，参考网狐",
+            "homepage": null,
             "id": 100216067,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-01-08T03:44:36Z",
+            "open_issues": 4,
             "owner": "shihuaping",
             "repo": "gamex",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "ddz",
+              "game-server",
+              "gate",
+              "js"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -898,12 +1218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator 德州扑克",
+            "homepage": null,
             "id": 61922345,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-02-18T08:19:43Z",
+            "open_issues": 2,
             "owner": "tiancityycf",
             "repo": "cocos",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -914,12 +1239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "斗地主",
+            "homepage": null,
             "id": 117303245,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-02-02T14:45:25Z",
+            "open_issues": 4,
             "owner": "haoyuan336",
             "repo": "doudizhu_os",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -930,12 +1260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 647146883,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-30T06:53:09Z",
+            "open_issues": 0,
             "owner": "babykylin",
             "repo": "babykylin_scmj",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -946,12 +1281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 89689521,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-02T03:59:24Z",
+            "open_issues": 2,
             "owner": "dixonzhang",
             "repo": "cocos-doudizhu",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -962,12 +1302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用cocoscreator(1.7版本)实现轮盘抽奖功能，可以配置参数可控制结果。",
+            "homepage": "http://skyxu123.gitee.io/gamelover/games/wheel/",
             "id": 116360521,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-09-26T06:30:56Z",
+            "open_issues": 1,
             "owner": "sky068",
             "repo": "Wheel_CocosCreator",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -978,12 +1323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "广东四川麻将的吃碰杠听胡逻辑以及广东麻将简易的AI实现",
+            "homepage": null,
             "id": 34850125,
             "language": "Lua",
+            "license": null,
             "last_commit": "2015-04-30T11:40:19Z",
+            "open_issues": 2,
             "owner": "TLeaves",
             "repo": "MahjongLogic",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -994,12 +1344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nodejs版斗地主",
+            "homepage": null,
             "id": 6594984,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2012-11-08T12:27:48Z",
+            "open_issues": 0,
             "owner": "ksky521",
             "repo": "DouZero",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -1010,12 +1365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用cocoscreator(1.7版本)实现刮刮卡功能，在webgl和native平台有效，原始代码来源：@xiayangqun   http://forum.cocos.com/t/ccc/51528",
+            "homepage": null,
             "id": 116354368,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-01-05T07:37:03Z",
+            "open_issues": 1,
             "owner": "sky068",
             "repo": "scratchCard",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         }
@@ -1032,12 +1392,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manual docs content for Cocos Creator",
+            "homepage": "https://docs.cocos.com",
             "id": 69218236,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-25T10:01:39Z",
+            "open_issues": 181,
             "owner": "cocos",
             "repo": "cocos-docs",
-            "stars": 400
+            "stars": 400,
+            "topics": [
+              "doc",
+              "documentation"
+            ]
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -1048,12 +1416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 217225896,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-14T10:11:46Z",
+            "open_issues": 0,
             "owner": "zhefengzhang",
             "repo": "CocosCreator-FAQ",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -1064,12 +1437,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 170459369,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-03-16T02:28:32Z",
+            "open_issues": 13,
             "owner": "cocos-creator",
             "repo": "docs-3d-deprecated",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         }
@@ -1086,12 +1464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "example for Cocos Creator physics",
+            "homepage": null,
             "id": 84145149,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-09-28T06:23:49Z",
+            "open_issues": 1,
             "owner": "2youyou2",
             "repo": "physics-example",
-            "stars": 414
+            "stars": 414,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -1102,12 +1485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator 1.5 打砖块",
+            "homepage": null,
             "id": 94232872,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-13T16:40:21Z",
+            "open_issues": 0,
             "owner": "potato47",
             "repo": "brick-breaker-master",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -1118,12 +1506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator 2.0 Material example based on <Heartfelt - by Martijn Steinrucken> on shadertoy.com",
+            "homepage": null,
             "id": 165370522,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-08-09T07:00:35Z",
+            "open_issues": 0,
             "owner": "fylz1125",
             "repo": "heartfelt",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         }
@@ -1140,12 +1533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "some shaders for cocos creator",
+            "homepage": null,
             "id": 129901028,
             "language": "GLSL",
+            "license": null,
             "last_commit": "2019-06-26T10:17:00Z",
+            "open_issues": 9,
             "owner": "fylz1125",
             "repo": "ShaderDemos",
-            "stars": 1012
+            "stars": 1012,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -1156,12 +1554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator v2.3.+ & v2.2.2 & v2.2.1 版本 Shader Effect Demo（边学边写）",
+            "homepage": null,
             "id": 229226234,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-06-23T11:03:24Z",
+            "open_issues": 2,
             "owner": "zhitaocai",
             "repo": "CocosCreator-Shader-Effect-Demo",
-            "stars": 483
+            "stars": 483,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -1172,12 +1575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EffectOnLine",
+            "homepage": "http://cross2d.com/effect/index.html",
             "id": 58201397,
             "language": "GLSL",
+            "license": null,
             "last_commit": "2017-08-18T23:32:21Z",
+            "open_issues": 4,
             "owner": "colin3dmax",
             "repo": "CocosCreator",
-            "stars": 430
+            "stars": 430,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -1188,12 +1596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos Creator 2.x Shader组件",
+            "homepage": null,
             "id": 156502892,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-03-20T03:05:01Z",
+            "open_issues": 1,
             "owner": "ShawnZhang2015",
             "repo": "ShaderHelper",
-            "stars": 234
+            "stars": 234,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         },
@@ -1204,12 +1617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 144946269,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-09-18T08:29:20Z",
+            "open_issues": 5,
             "owner": "colinsusie",
             "repo": "creator_2_0_material_demo",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
         }
@@ -1228,12 +1646,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "微信小游戏子域排行榜系统cocos示例程序，此示例中包含好友排行榜列表、群排行榜列表、上传得分、横向排行展示等功能。",
+                "homepage": "http://www.xwintop.com",
                 "id": 134788447,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-09-05T03:26:23Z",
+                "open_issues": 1,
                 "owner": "864381832",
                 "repo": "wxGameRank",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "cocos-creator"
+                ]
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             },
@@ -1244,12 +1669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "wechat mini program/mini game api integated with cocos creator or h5 game framework",
+                "homepage": null,
                 "id": 129992509,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2018-08-04T15:53:36Z",
+                "open_issues": 0,
                 "owner": "caochao",
                 "repo": "cocos-creator-h5-wxapi",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1267,12 +1697,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cocos Creator 网页调试工具，运行时查看、修改节点树，实时更新节点属性，可视化显示缓存资源。",
+                "homepage": null,
                 "id": 163127075,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-05T13:45:54Z",
+                "open_issues": 15,
                 "owner": "potato47",
                 "repo": "ccc-devtools",
-                "stars": 1259
+                "stars": 1259,
+                "topics": [
+                  "cocos-creator"
+                ]
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1290,12 +1727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The sample of Cocos Creator for build & optimize & deploy",
+                "homepage": null,
                 "id": 113762012,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-05-16T02:36:26Z",
+                "open_issues": 0,
                 "owner": "babyzone2004",
                 "repo": "cocos-fly",
-                "stars": 135
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1313,12 +1755,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cocos creator 热更新插件,bugly插件,cc-Inspector插件,excel转换插件,贝塞尔曲线插件",
+                "homepage": null,
                 "id": 113842607,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-03-21T10:52:05Z",
+                "open_issues": 12,
                 "owner": "tidys",
                 "repo": "CocosCreatorPlugins",
-                "stars": 697
+                "stars": 697,
+                "topics": [
+                  "cocos",
+                  "cocos-creator",
+                  "cocos2d-js",
+                  "cocoscreator",
+                  "cocosplugin",
+                  "creator"
+                ]
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1336,12 +1790,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cocos creator 轻量级游戏框架,后续更新维护都在上面，完整的项目请转到 https://gitee.com/top-discover/QuickFramework",
+                "homepage": null,
                 "id": 266721585,
                 "language": "C++",
+                "license": "AFL-3.0",
                 "last_commit": "2025-02-12T03:10:21Z",
+                "open_issues": 0,
                 "owner": "TopDiscover",
                 "repo": "QuickFramework",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "cocos-creator",
+                  "framework"
+                ]
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1359,12 +1821,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一种 Cocos Creator 「无侵入」 「全资源支持」 「跨平台」 「资源处理流」 方案。",
+                "homepage": null,
                 "id": 277742111,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-20T19:55:00Z",
+                "open_issues": 3,
                 "owner": "zhitaocai",
                 "repo": "CocosCreator-Build-Encrypt",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1382,12 +1849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "奎特尔星球上的UI大杀器",
+                "homepage": null,
                 "id": 103070258,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-07-31T00:09:02Z",
+                "open_issues": 1,
                 "owner": "ShawnZhang2015",
                 "repo": "uikiller",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             },
@@ -1398,12 +1870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 115865577,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2018-12-21T07:46:05Z",
+                "open_issues": 2,
                 "owner": "1083921307",
                 "repo": "UILoader",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1421,12 +1898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cocos Creator 新手引导框架，支持浏览器自动引导，流程录制与回放，可实现自动化测试！",
+                "homepage": null,
                 "id": 207188949,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-04-12T06:25:45Z",
+                "open_issues": 2,
                 "owner": "ShawnZhang2015",
                 "repo": "GodGuide",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1444,12 +1926,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 135818073,
                 "language": "GLSL",
+                "license": null,
                 "last_commit": "2020-03-21T14:57:52Z",
+                "open_issues": 0,
                 "owner": "shpz",
                 "repo": "AttackArea",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             },
@@ -1460,12 +1947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn OpenGL ES via Cocos2D-X",
+                "homepage": "http://www.zilongshanren.com",
                 "id": 18557654,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-12-08T08:24:27Z",
+                "open_issues": 0,
                 "owner": "zilongshanren",
                 "repo": "OpenGLES-cocos2dx",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1483,12 +1975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A websocket multiplayer game made with cocos creator.",
+                "homepage": null,
                 "id": 174954127,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-12-10T18:08:55Z",
+                "open_issues": 4,
                 "owner": "wheatup",
                 "repo": "scrabble",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1506,12 +2003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 370008183,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-23T09:05:49Z",
+                "open_issues": 4,
                 "owner": "k8w",
                 "repo": "tsrpc-examples",
-                "stars": 303
+                "stars": 303,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             },
@@ -1522,12 +2024,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Time waits for no one.",
+                "homepage": null,
                 "id": 44798462,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2020-12-26T15:07:54Z",
+                "open_issues": 1282,
                 "owner": "cisen",
                 "repo": "blog",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             },
@@ -1538,12 +2045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "乐观帧同步网页示例，支持断线重连。（使用node.js + socket.io开发）",
+                "homepage": null,
                 "id": 166963891,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-09-22T01:33:02Z",
+                "open_issues": 0,
                 "owner": "fylz1125",
                 "repo": "LockstepDemo",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1561,12 +2073,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "在cocosCreator里使用a星寻路",
+                "homepage": null,
                 "id": 123219033,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-02-28T03:11:38Z",
+                "open_issues": 0,
                 "owner": "sky068",
                 "repo": "AstarCreator",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1584,12 +2101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An awesome online visual editor for Behavior3 (Behavior Trees Visual Editor)",
+                "homepage": null,
                 "id": 37464026,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-06T10:10:34Z",
+                "open_issues": 32,
                 "owner": "behavior3",
                 "repo": "behavior3editor",
-                "stars": 705
+                "stars": 705,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1607,12 +2129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 222258043,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2019-11-17T15:25:41Z",
+                "open_issues": 0,
                 "owner": "baibai2013",
                 "repo": "cocos-creator-gifLib",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             },
@@ -1623,12 +2150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gif image loading",
+                "homepage": null,
                 "id": 415223849,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-10-09T12:23:17Z",
+                "open_issues": 0,
                 "owner": "newGy",
                 "repo": "cocos-creator-gif-2.4.4",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1646,12 +2178,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "将 cocos creator 构建出来的 web-mobile 项目打包为 playable-ad 项目，即单 html 文件。",
+                "homepage": null,
                 "id": 211636819,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-07-28T15:11:36Z",
+                "open_issues": 7,
                 "owner": "fkworld",
                 "repo": "cocos-to-playable-ad",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "cocos",
+                  "playable-ad",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1669,12 +2210,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个用于Cocos Creator的文本渲染解决方案",
+                "homepage": null,
                 "id": 524127341,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-01-19T13:32:40Z",
+                "open_issues": 3,
                 "owner": "LeeYip",
                 "repo": "cocos-text-mesh-pro",
-                "stars": 221
+                "stars": 221,
+                "topics": [
+                  "cocos",
+                  "cocos-creator",
+                  "label",
+                  "sdf",
+                  "text-mesh-pro"
+                ]
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1692,12 +2244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cocoscreator",
+                "homepage": null,
                 "id": 296475655,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2020-09-18T10:26:03Z",
+                "open_issues": 0,
                 "owner": "haoyuan336",
                 "repo": "cocoscreator3dBezier",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1715,12 +2272,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "极光推送集成仅需三步集成指南",
+                "homepage": null,
                 "id": 230717451,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-29T09:57:53Z",
+                "open_issues": 0,
                 "owner": "longyinzaitian",
                 "repo": "JiGuangIntegration",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1738,12 +2300,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DragonBones Tools",
+                "homepage": null,
                 "id": 100478970,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-06-09T08:39:03Z",
+                "open_issues": 13,
                 "owner": "DragonBones",
                 "repo": "Tools",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "convert",
+                  "dragonbones",
+                  "formats",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
             }
@@ -1757,15 +2329,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:25:57.076Z",
+    "last_updated": "2026-08-29T04:22:56.263Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Cocos Creator 游戏资源合集",
+      "homepage": null,
       "id": 222900201,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2024-10-29T16:25:13Z",
+      "open_issues": 7,
       "owner": "Leo501",
       "repo": "awesome-CocosCreator",
-      "stars": 3158
+      "stars": 3158,
+      "topics": []
     },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
     "enhanced_repository": "enhansome/enhansome-CocosCreator",
