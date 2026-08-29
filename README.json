@@ -790,7 +790,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-08-21T08:32:15Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "cocos",
             "repo": "cocos-test-projects",
             "stars": 327,
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:56.263Z",
+    "last_updated": "2026-08-29T14:01:18.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
