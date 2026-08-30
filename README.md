@@ -93,7 +93,7 @@ Cocos Creator 资源合集
 * 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 287 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
 * poker-game-demo <https://github.com/zifeiy/poker-game-demo> ⭐ 252 | 🐛 2 | 🌐 JavaScript | 📅 2017-09-19
 * 帧同步打造3D台球 <https://github.com/EricDDK/billiards_cocos2d> ⭐ 162 | 🐛 2 | 🌐 C++ | 📅 2019-05-22
-* 棋牌类游戏框架，参考网狐 <https://github.com/shihuaping/gamex> ⭐ 157 | 🐛 4 | 🌐 JavaScript | 📅 2020-01-08
+* 棋牌类游戏框架，参考网狐 <https://github.com/shihuaping/gamex> ⭐ 158 | 🐛 4 | 🌐 JavaScript | 📅 2020-01-08
 * 德州扑克 <https://github.com/tiancityycf/cocos> ⭐ 132 | 🐛 2 | 🌐 JavaScript | 📅 2019-02-18
 * 斗地主 <https://github.com/haoyuan336/doudizhu_os> ⭐ 92 | 🐛 4 | 🌐 JavaScript | 📅 2018-02-02
 * 幼麟棋牌-四川麻将v1.0 <https://github.com/babykylin/babykylin_scmj> ⭐ 86 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-30
@@ -181,7 +181,7 @@ Cocos Creator 资源合集
 
 ### 调试工具
 
-* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,259 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,260 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 
 ### H5构建
 
@@ -273,7 +273,7 @@ Cocos Creator 资源合集
 
 ### AI行为树
 
-* <https://github.com/behavior3/behavior3editor> ⭐ 705 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
+* <https://github.com/behavior3/behavior3editor> ⭐ 706 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
 
 ### 支持gif
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

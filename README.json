@@ -1201,7 +1201,7 @@
             "open_issues": 4,
             "owner": "shihuaping",
             "repo": "gamex",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "ddz",
               "game-server",
@@ -1706,7 +1706,7 @@
                 "open_issues": 15,
                 "owner": "potato47",
                 "repo": "ccc-devtools",
-                "stars": 1259,
+                "stars": 1260,
                 "topics": [
                   "cocos-creator"
                 ]
@@ -2110,7 +2110,7 @@
                 "open_issues": 32,
                 "owner": "behavior3",
                 "repo": "behavior3editor",
-                "stars": 705,
+                "stars": 706,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:01:18.461Z",
+    "last_updated": "2026-08-30T14:00:28.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
@@ -2341,7 +2341,7 @@
       "open_issues": 7,
       "owner": "Leo501",
       "repo": "awesome-CocosCreator",
-      "stars": 3158,
+      "stars": 3159,
       "topics": []
     },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
