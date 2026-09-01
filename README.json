@@ -2012,7 +2012,7 @@
                 "open_issues": 4,
                 "owner": "k8w",
                 "repo": "tsrpc-examples",
-                "stars": 303,
+                "stars": 304,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
@@ -2187,7 +2187,7 @@
                 "open_issues": 7,
                 "owner": "fkworld",
                 "repo": "cocos-to-playable-ad",
-                "stars": 111,
+                "stars": 112,
                 "topics": [
                   "cocos",
                   "playable-ad",
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:24:18.869Z",
+    "last_updated": "2026-09-01T13:43:07.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
@@ -2341,7 +2341,7 @@
       "open_issues": 7,
       "owner": "Leo501",
       "repo": "awesome-CocosCreator",
-      "stars": 3162,
+      "stars": 3163,
       "topics": []
     },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
