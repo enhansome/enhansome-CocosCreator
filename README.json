@@ -772,7 +772,7 @@
             "open_issues": 9,
             "owner": "cocos",
             "repo": "cocos-example-projects",
-            "stars": 581,
+            "stars": 582,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
@@ -793,7 +793,7 @@
             "open_issues": 8,
             "owner": "cocos",
             "repo": "cocos-test-projects",
-            "stars": 327,
+            "stars": 328,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
@@ -1022,7 +1022,7 @@
             "open_issues": 20,
             "owner": "yuanfengyun",
             "repo": "q_algorithm",
-            "stars": 2100,
+            "stars": 2101,
             "topics": [
               "algorithm",
               "doudizhu",
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:43:07.737Z",
+    "last_updated": "2026-09-02T12:59:10.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
