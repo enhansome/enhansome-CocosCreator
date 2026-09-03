@@ -6,7 +6,7 @@ Cocos Creator 资源合集
 
 #### 框架
 
-* cocos creator 基础框架，包含资源、ui管理，网络模块 <https://github.com/wyb10a10/cocos_creator_framework> ⭐ 1,046 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-21
+* cocos creator 基础框架，包含资源、ui管理，网络模块 <https://github.com/wyb10a10/cocos_creator_framework> ⭐ 1,047 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-21
 * cocos creator项目基础类库 <https://github.com/caochao/cocos_creator_proj_base> ⭐ 847 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
 * CocosCreator\_UIFrameWork <https://github.com/kirikayakazuto/CocosCreator_UIFrameWork> ⭐ 810 | 🐛 9 | 🌐 TypeScript | 📅 2024-03-20
 * cocos creator 的 mvvm 的工具 集 <https://github.com/wsssheep/cocos_creator_mvvm_tools> ⭐ 545 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24
@@ -273,7 +273,7 @@ Cocos Creator 资源合集
 
 ### AI行为树
 
-* <https://github.com/behavior3/behavior3editor> ⭐ 706 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
+* <https://github.com/behavior3/behavior3editor> ⭐ 707 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
 
 ### 支持gif
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
