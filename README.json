@@ -1022,7 +1022,7 @@
             "open_issues": 20,
             "owner": "yuanfengyun",
             "repo": "q_algorithm",
-            "stars": 2101,
+            "stars": 2100,
             "topics": [
               "algorithm",
               "doudizhu",
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:07:43.523Z",
+    "last_updated": "2026-09-06T12:21:28.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
@@ -2341,7 +2341,7 @@
       "open_issues": 7,
       "owner": "Leo501",
       "repo": "awesome-CocosCreator",
-      "stars": 3167,
+      "stars": 3168,
       "topics": []
     },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
