@@ -38,7 +38,7 @@ Cocos Creator 资源合集
 
 ***
 
-* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 802 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-07
+* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 803 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-07
 * 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
 * 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 271 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
 * 物理弹球 <https://github.com/andynicoo/Physical-Pinball> ⭐ 156 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-15
@@ -85,7 +85,7 @@ Cocos Creator 资源合集
 
 ### 棋牌
 
-* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,100 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
+* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,099 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
 * <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01
 * 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 433 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
@@ -110,7 +110,7 @@ Cocos Creator 资源合集
 
 ### 官方手册
 
-* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 400 | 🐛 181 | 🌐 TypeScript | 📅 2026-08-25
+* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 400 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-25
 * 常见问题归纳 <https://github.com/Jno1995/CocosCreator-FAQ> ⭐ 36 | 🐛 0 | 📅 2022-03-14
 * 3d <https://github.com/cocos-creator/docs-3d> ⚠️ Archived
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
