@@ -6,7 +6,7 @@ Cocos Creator 资源合集
 
 #### 框架
 
-* cocos creator 基础框架，包含资源、ui管理，网络模块 <https://github.com/wyb10a10/cocos_creator_framework> ⭐ 1,047 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-21
+* cocos creator 基础框架，包含资源、ui管理，网络模块 <https://github.com/wyb10a10/cocos_creator_framework> ⭐ 1,048 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-21
 * cocos creator项目基础类库 <https://github.com/caochao/cocos_creator_proj_base> ⭐ 847 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
 * CocosCreator\_UIFrameWork <https://github.com/kirikayakazuto/CocosCreator_UIFrameWork> ⭐ 810 | 🐛 9 | 🌐 TypeScript | 📅 2024-03-20
 * cocos creator 的 mvvm 的工具 集 <https://github.com/wsssheep/cocos_creator_mvvm_tools> ⭐ 545 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24
@@ -38,7 +38,7 @@ Cocos Creator 资源合集
 
 ***
 
-* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 803 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-07
+* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 804 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-07
 * 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
 * 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 271 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
 * 物理弹球 <https://github.com/andynicoo/Physical-Pinball> ⭐ 156 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-15
@@ -61,7 +61,7 @@ Cocos Creator 资源合集
 
 * 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 785 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 583 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
-* 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 328 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-21
+* 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 328 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-08
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
 * Creator 3D 材质系统：曲面效果如何实现 <https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA>
 * 合成大西瓜3D版本 <https://store.cocos.com/app/detail/2687>
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
