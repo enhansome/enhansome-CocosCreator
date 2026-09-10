@@ -793,7 +793,7 @@
             "open_issues": 8,
             "owner": "cocos",
             "repo": "cocos-test-projects",
-            "stars": 328,
+            "stars": 329,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
@@ -1401,7 +1401,7 @@
             "open_issues": 182,
             "owner": "cocos",
             "repo": "cocos-docs",
-            "stars": 400,
+            "stars": 399,
             "topics": [
               "doc",
               "documentation"
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:10:35.522Z",
+    "last_updated": "2026-09-10T13:08:25.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
@@ -2341,7 +2341,7 @@
       "open_issues": 7,
       "owner": "Leo501",
       "repo": "awesome-CocosCreator",
-      "stars": 3172,
+      "stars": 3174,
       "topics": []
     },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
