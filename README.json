@@ -417,7 +417,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-02-07T14:23:44Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "isghost",
             "repo": "kaixinxiaoxiaole",
             "stars": 806,
@@ -751,7 +751,7 @@
             "open_issues": 2,
             "owner": "Leo501",
             "repo": "CocosCreatorTutorial",
-            "stars": 785,
+            "stars": 786,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
@@ -1091,7 +1091,7 @@
             "open_issues": 2,
             "owner": "xiyoufang",
             "repo": "mahjong",
-            "stars": 434,
+            "stars": 435,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
@@ -1138,7 +1138,7 @@
             "open_issues": 2,
             "owner": "fylz1125",
             "repo": "CCFish",
-            "stars": 287,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
@@ -1706,7 +1706,7 @@
                 "open_issues": 15,
                 "owner": "potato47",
                 "repo": "ccc-devtools",
-                "stars": 1261,
+                "stars": 1262,
                 "topics": [
                   "cocos-creator"
                 ]
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:28:32.444Z",
+    "last_updated": "2026-09-14T15:16:18.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
