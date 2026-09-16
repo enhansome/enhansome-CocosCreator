@@ -88,7 +88,7 @@ Cocos Creator 资源合集
 * 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,098 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
 * <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01
-* 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 435 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
+* 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 434 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
 * 学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目 <https://github.com/tumobi/pomelo-cocos-creator-awesome> ⭐ 398 | 🐛 0 | 📅 2018-11-15
 * 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 288 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
 * poker-game-demo <https://github.com/zifeiy/poker-game-demo> ⭐ 252 | 🐛 2 | 🌐 JavaScript | 📅 2017-09-19
@@ -96,7 +96,7 @@ Cocos Creator 资源合集
 * 棋牌类游戏框架，参考网狐 <https://github.com/shihuaping/gamex> ⭐ 158 | 🐛 4 | 🌐 JavaScript | 📅 2020-01-08
 * 德州扑克 <https://github.com/tiancityycf/cocos> ⭐ 132 | 🐛 2 | 🌐 JavaScript | 📅 2019-02-18
 * 斗地主 <https://github.com/haoyuan336/doudizhu_os> ⭐ 92 | 🐛 4 | 🌐 JavaScript | 📅 2018-02-02
-* 幼麟棋牌-四川麻将v1.0 <https://github.com/babykylin/babykylin_scmj> ⭐ 86 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-30
+* 幼麟棋牌-四川麻将v1.0 <https://github.com/babykylin/babykylin_scmj> ⭐ 87 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-30
 * 斗地主1.3 <https://github.com/dixonzhang/cocos-doudizhu> ⭐ 78 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-02
 * 轮盘抽奖 <https://github.com/sky068/Wheel_CocosCreator> ⭐ 64 | 🐛 1 | 🌐 JavaScript | 📅 2025-09-26
 * 广东四川麻将的吃碰杠听胡逻辑以及广东麻将简易的AI实现 <https://github.com/TLeaves/MahjongLogic> ⭐ 51 | 🐛 2 | 🌐 Lua | 📅 2015-04-30
@@ -181,7 +181,7 @@ Cocos Creator 资源合集
 
 ### 调试工具
 
-* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,261 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,263 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 
 ### H5构建
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
