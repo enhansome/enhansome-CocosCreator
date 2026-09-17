@@ -59,9 +59,9 @@ Cocos Creator 资源合集
 
 #### 3d游戏
 
-* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 786 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
-* 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 583 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
-* 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 329 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-08
+* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 787 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
+* 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 584 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
+* 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 329 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-08
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
 * Creator 3D 材质系统：曲面效果如何实现 <https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA>
 * 合成大西瓜3D版本 <https://store.cocos.com/app/detail/2687>
@@ -72,7 +72,7 @@ Cocos Creator 资源合集
 * 打砖块 <https://github.com/potato47/brick-breaker-master> ⭐ 77 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-13
 * 躲猫猫 - (cocos creator + pomelo) <https://github.com/wohow/peekaboo-master> ⭐ 69 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-24
 * 汉字临摹 <https://github.com/Amterasu/writerDemo> ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2021-02-03
-* tankwar <https://github.com/m249212419/tankwar> ⭐ 53 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-16
+* tankwar <https://github.com/m249212419/tankwar> ⭐ 54 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-16
 * 贪吃蛇 <https://github.com/dixonzhang/ccc_snake> ⭐ 48 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-09
 * 六边形游戏 <https://github.com/hellozhangran/game-hexagon> ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2017-08-18
 * 斗兽棋 <https://github.com/m249212419/doushouqi> ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-27
@@ -110,7 +110,7 @@ Cocos Creator 资源合集
 
 ### 官方手册
 
-* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 398 | 🐛 184 | 🌐 TypeScript | 📅 2026-08-25
+* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 398 | 🐛 185 | 🌐 TypeScript | 📅 2026-08-25
 * 常见问题归纳 <https://github.com/Jno1995/CocosCreator-FAQ> ⭐ 36 | 🐛 0 | 📅 2022-03-14
 * 3d <https://github.com/cocos-creator/docs-3d> ⚠️ Archived
 
@@ -181,7 +181,7 @@ Cocos Creator 资源合集
 
 ### 调试工具
 
-* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,263 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,264 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 
 ### H5构建
 
@@ -211,7 +211,7 @@ Cocos Creator 资源合集
 
 ### 资源加密
 
-* 资源加密方案 <https://github.com/zhitaocai/CocosCreator-Build-Encrypt> ⭐ 121 | 🐛 3 | 🌐 TypeScript | 📅 2026-01-20
+* 资源加密方案 <https://github.com/zhitaocai/CocosCreator-Build-Encrypt> ⭐ 122 | 🐛 3 | 🌐 TypeScript | 📅 2026-01-20
 
 ### 解压zip
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
