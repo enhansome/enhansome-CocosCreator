@@ -8,7 +8,7 @@ Cocos Creator 资源合集
 
 * cocos creator 基础框架，包含资源、ui管理，网络模块 <https://github.com/wyb10a10/cocos_creator_framework> ⭐ 1,048 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-21
 * cocos creator项目基础类库 <https://github.com/caochao/cocos_creator_proj_base> ⭐ 847 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
-* CocosCreator\_UIFrameWork <https://github.com/kirikayakazuto/CocosCreator_UIFrameWork> ⭐ 810 | 🐛 9 | 🌐 TypeScript | 📅 2024-03-20
+* CocosCreator\_UIFrameWork <https://github.com/kirikayakazuto/CocosCreator_UIFrameWork> ⭐ 811 | 🐛 9 | 🌐 TypeScript | 📅 2024-03-20
 * cocos creator 的 mvvm 的工具 集 <https://github.com/wsssheep/cocos_creator_mvvm_tools> ⭐ 545 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24
 * GameplayFramework <https://github.com/huangx916/GameplayFramework> ⭐ 306 | 🐛 2 | 🌐 TypeScript | 📅 2019-07-31
 * ECS框架 <https://github.com/darkoverlordofdata/entitas-ts> ⭐ 223 | 🐛 3 | 🌐 TypeScript | 📅 2017-03-28
@@ -60,7 +60,7 @@ Cocos Creator 资源合集
 #### 3d游戏
 
 * 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 787 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
-* 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 584 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
+* 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 585 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
 * 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 329 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-08
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
 * Creator 3D 材质系统：曲面效果如何实现 <https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA>
@@ -110,7 +110,7 @@ Cocos Creator 资源合集
 
 ### 官方手册
 
-* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 398 | 🐛 185 | 🌐 TypeScript | 📅 2026-08-25
+* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 399 | 🐛 185 | 🌐 TypeScript | 📅 2026-08-25
 * 常见问题归纳 <https://github.com/Jno1995/CocosCreator-FAQ> ⭐ 36 | 🐛 0 | 📅 2022-03-14
 * 3d <https://github.com/cocos-creator/docs-3d> ⚠️ Archived
 
@@ -287,7 +287,7 @@ Cocos Creator 资源合集
 
 ### 优化
 
-* 【CocosTextMeshPro】一个文本渲染解决方案——支持字体颜色渐变、斜体、下划线、删除线、描边、镂空、阴影、辉光、顶点动画、新的排版模式 <https://github.com/LeeYip/cocos-text-mesh-pro> ⭐ 221 | 🐛 3 | 🌐 TypeScript | 📅 2025-01-19
+* 【CocosTextMeshPro】一个文本渲染解决方案——支持字体颜色渐变、斜体、下划线、删除线、描边、镂空、阴影、辉光、顶点动画、新的排版模式 <https://github.com/LeeYip/cocos-text-mesh-pro> ⭐ 222 | 🐛 3 | 🌐 TypeScript | 📅 2025-01-19
 * 突破 Label 的缓存模式：CHAR 无限模式 <https://forum.cocos.org/t/label-2-char/97766>
 * 性能调优优化集锦 <https://mp.weixin.qq.com/s/OaZVFMq4vZIrVeSZb17ing>
 * 纹理压缩方案 <https://mp.weixin.qq.com/s/s-ykV2Nbp8Oc7H7PfUxW_w>
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
