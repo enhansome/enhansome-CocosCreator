@@ -181,7 +181,7 @@ Cocos Creator 资源合集
 
 ### 调试工具
 
-* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,264 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,265 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 
 ### H5构建
 
@@ -282,7 +282,7 @@ Cocos Creator 资源合集
 
 ### 生成单Html包
 
-* 支持2.0\~2.3 <https://github.com/fkworld/cocos-to-playable-ad> ⭐ 112 | 🐛 7 | 🌐 TypeScript | 📅 2020-07-28
+* 支持2.0\~2.3 <https://github.com/fkworld/cocos-to-playable-ad> ⭐ 113 | 🐛 7 | 🌐 TypeScript | 📅 2020-07-28
 * 支持2.4 [https://github.com/badApple001/Cocos-Creator-Build-Tool](https://gitee.com/welcome2jcSpace/Cocos-Creator-Build-Tool)
 
 ### 优化
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
