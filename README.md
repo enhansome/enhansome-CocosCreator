@@ -6,7 +6,7 @@ Cocos Creator 资源合集
 
 #### 框架
 
-* cocos creator 基础框架，包含资源、ui管理，网络模块 <https://github.com/wyb10a10/cocos_creator_framework> ⭐ 1,049 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-21
+* cocos creator 基础框架，包含资源、ui管理，网络模块 <https://github.com/wyb10a10/cocos_creator_framework> ⭐ 1,048 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-21
 * cocos creator项目基础类库 <https://github.com/caochao/cocos_creator_proj_base> ⭐ 847 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
 * CocosCreator\_UIFrameWork <https://github.com/kirikayakazuto/CocosCreator_UIFrameWork> ⭐ 810 | 🐛 9 | 🌐 TypeScript | 📅 2024-03-20
 * cocos creator 的 mvvm 的工具 集 <https://github.com/wsssheep/cocos_creator_mvvm_tools> ⭐ 545 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24
@@ -85,7 +85,7 @@ Cocos Creator 资源合集
 
 ### 棋牌
 
-* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,098 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
+* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,099 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
 * <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01
 * 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 436 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
@@ -181,7 +181,7 @@ Cocos Creator 资源合集
 
 ### 调试工具
 
-* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,265 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,266 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 
 ### H5构建
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
