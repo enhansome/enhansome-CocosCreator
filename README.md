@@ -48,7 +48,7 @@ Cocos Creator 资源合集
 * HorseRace <https://github.com/SmileChen518/HorseRace> ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-27
 * 投石对战微信小游戏 <https://github.com/jay602/stone_war> ⭐ 37 | 🐛 1 | 🌐 JavaScript | 📅 2018-11-12
 * 治愈七夕，微信小游戏，音乐游戏 <https://github.com/SmileChen518/MusicGame> ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-27
-* 2D卷轴闯关小游戏 <https://github.com/Zhniing/Play> ⭐ 21 | 🐛 1 | 🌐 JavaScript | 📅 2021-09-06
+* 2D卷轴闯关小游戏 <https://github.com/Zhniing/Play> ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2021-09-06
 * 密室逃脱类小游戏 <https://github.com/fylz1125/SecretBill> ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-20
 * 弹跳小卜源码 <https://github.com/ccx01/Boo> ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-27
 * 篮球小游戏 <https://github.com/fylz1125/BasketBall> ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-07
@@ -87,7 +87,7 @@ Cocos Creator 资源合集
 
 * 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,100 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
-* <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 473 | 🐛 269 | 🌐 JavaScript | 📅 2020-10-01
+* <https://github.com/ligun123/chess> ⭐ 472 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 472 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01
 * 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 436 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
 * 学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目 <https://github.com/tumobi/pomelo-cocos-creator-awesome> ⭐ 399 | 🐛 0 | 📅 2018-11-15
 * 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 289 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
