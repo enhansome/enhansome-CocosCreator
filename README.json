@@ -420,7 +420,7 @@
             "open_issues": 5,
             "owner": "isghost",
             "repo": "kaixinxiaoxiaole",
-            "stars": 806,
+            "stars": 807,
             "topics": [
               "cocos2d-x",
               "game-2d",
@@ -1022,7 +1022,7 @@
             "open_issues": 20,
             "owner": "yuanfengyun",
             "repo": "q_algorithm",
-            "stars": 2100,
+            "stars": 2101,
             "topics": [
               "algorithm",
               "doudizhu",
@@ -1401,7 +1401,7 @@
             "open_issues": 184,
             "owner": "cocos",
             "repo": "cocos-docs",
-            "stars": 399,
+            "stars": 400,
             "topics": [
               "doc",
               "documentation"
@@ -1706,7 +1706,7 @@
                 "open_issues": 15,
                 "owner": "potato47",
                 "repo": "ccc-devtools",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": [
                   "cocos-creator"
                 ]
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T15:22:32.366Z",
+    "last_updated": "2026-10-01T15:42:32.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
@@ -2341,7 +2341,7 @@
       "open_issues": 7,
       "owner": "Leo501",
       "repo": "awesome-CocosCreator",
-      "stars": 3201,
+      "stars": 3203,
       "topics": []
     },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
