@@ -39,10 +39,10 @@ Cocos Creator 资源合集
 ***
 
 * 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 807 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-07
-* 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
+* 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 325 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
 * 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 271 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
+* 七彩蹦蹦 <https://github.com/shichaohui/ColorUp> ⭐ 156 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-16
 * 物理弹球 <https://github.com/andynicoo/Physical-Pinball> ⭐ 156 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-15
-* 七彩蹦蹦 <https://github.com/shichaohui/ColorUp> ⭐ 155 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-16
 * 斗兽棋 <https://github.com/matchvs/AnimalChecker> ⭐ 102 | 🐛 2 | 🌐 JavaScript | 📅 2019-03-22
 * 俄罗斯方块 <https://github.com/KuoKuo666/CocosCreator-Tetris.git> ⭐ 78 | 🐛 1 | 🌐 TypeScript | 📅 2020-04-14
 * HorseRace <https://github.com/SmileChen518/HorseRace> ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-27
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
