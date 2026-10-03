@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "cocos creator 基础框架，包含资源、ui管理，网络模块 https://github.com/wyb10a10/cocos_creator_framework",
-          "description": null,
+          "description": "wyb10a10/cocos_creator_framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -32,7 +32,7 @@
         {
           "node_type": "item",
           "title": "cocos creator项目基础类库 https://github.com/caochao/cocos_creator_proj_base",
-          "description": null,
+          "description": "caochao/cocos_creator_proj_base",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -56,7 +56,7 @@
         {
           "node_type": "item",
           "title": "CocosCreator_UIFrameWork https://github.com/kirikayakazuto/CocosCreator_UIFrameWork",
-          "description": null,
+          "description": "kirikayakazuto/CocosCreator_UIFrameWork",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -77,7 +77,7 @@
         {
           "node_type": "item",
           "title": "cocos creator 的 mvvm 的工具 集 https://github.com/wsssheep/cocos_creator_mvvm_tools",
-          "description": null,
+          "description": "wsssheep/cocos_creator_mvvm_tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,7 +101,7 @@
         {
           "node_type": "item",
           "title": "GameplayFramework https://github.com/huangx916/GameplayFramework",
-          "description": null,
+          "description": "huangx916/GameplayFramework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -128,7 +128,7 @@
         {
           "node_type": "item",
           "title": "ECS框架 https://github.com/darkoverlordofdata/entitas-ts",
-          "description": null,
+          "description": "darkoverlordofdata/entitas-ts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -149,7 +149,7 @@
         {
           "node_type": "item",
           "title": "lightMVC https://github.com/yue19870813/lightMVC",
-          "description": null,
+          "description": "yue19870813/ituuz-x",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,7 +170,7 @@
         {
           "node_type": "item",
           "title": "ccc游戏框架 https://github.com/tonyshow/tonyCocosCreatorDamo",
-          "description": null,
+          "description": "tonyshow/tonyCocosCreatorDamo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -191,7 +191,7 @@
         {
           "node_type": "item",
           "title": "前端框架 https://github.com/m249212419/CreatorClient",
-          "description": null,
+          "description": "m249212419/CreatorClient",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -218,7 +218,7 @@
         {
           "node_type": "item",
           "title": "facebook纸牌2048 https://github.com/NorhsArk/Cocos_2048Solitare",
-          "description": null,
+          "description": "NorhsArk/Cocos_2048Solitare",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -239,7 +239,7 @@
         {
           "node_type": "item",
           "title": "facebook一笔画2 https://github.com/NorhsArk/Cocos_OneDraw2",
-          "description": null,
+          "description": "NorhsArk/Cocos_OneDraw2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,7 +260,7 @@
         {
           "node_type": "item",
           "title": "facebook方块十消 https://github.com/NorhsArk/Cocos_1010",
-          "description": null,
+          "description": "NorhsArk/Cocos_1010",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,7 +281,7 @@
         {
           "node_type": "item",
           "title": "facebook迷宫变种 https://github.com/NorhsArk/Cocos_MazesCross",
-          "description": null,
+          "description": "NorhsArk/Cocos_MazesCross",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "facebook一笔画 https://github.com/NorhsArk/Cocos_OneDraw",
-          "description": null,
+          "description": "NorhsArk/Cocos_OneDraw",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -323,7 +323,7 @@
         {
           "node_type": "item",
           "title": "facebook打枪 https://github.com/NorhsArk/Cocos_LastGun",
-          "description": null,
+          "description": "NorhsArk/Cocos_LastGun",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -344,7 +344,7 @@
         {
           "node_type": "item",
           "title": "facebook拼盘 https://github.com/NorhsArk/Cocos_FunnySlice",
-          "description": null,
+          "description": "NorhsArk/Cocos_FunnySlice",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,7 +365,7 @@
         {
           "node_type": "item",
           "title": "facebook鼻涕 https://github.com/NorhsArk/Cocos_Nose",
-          "description": null,
+          "description": "NorhsArk/Cocos_Nose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,7 +386,7 @@
         {
           "node_type": "item",
           "title": "facebook爬楼 https://github.com/NorhsArk/Cocos_RiseUp",
-          "description": null,
+          "description": "NorhsArk/Cocos_RiseUp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -407,7 +407,7 @@
         {
           "node_type": "item",
           "title": "开心消消乐 https://github.com/isghost/kaixinxiaoxiaole",
-          "description": null,
+          "description": "isghost/kaixinxiaoxiaole",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -432,7 +432,7 @@
         {
           "node_type": "item",
           "title": "橡皮怪勇闯地下室 https://github.com/shenghy/Cocos_Basement",
-          "description": null,
+          "description": "shenghy/Cocos_Basement",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -453,7 +453,7 @@
         {
           "node_type": "item",
           "title": "六边形消除 https://github.com/WuBuzi/LBXGame",
-          "description": null,
+          "description": "wijat/LBXGame",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -474,7 +474,7 @@
         {
           "node_type": "item",
           "title": "七彩蹦蹦 https://github.com/shichaohui/ColorUp",
-          "description": null,
+          "description": "shichaohui/ColorUp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -495,7 +495,7 @@
         {
           "node_type": "item",
           "title": "物理弹球 https://github.com/andynicoo/Physical-Pinball",
-          "description": null,
+          "description": "andynicoo/Physical-Pinball",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -516,7 +516,7 @@
         {
           "node_type": "item",
           "title": "斗兽棋 https://github.com/matchvs/AnimalChecker",
-          "description": null,
+          "description": "matchvs/AnimalChecker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -539,7 +539,7 @@
         {
           "node_type": "item",
           "title": "俄罗斯方块 https://github.com/KuoKuo666/CocosCreator-Tetris.git",
-          "description": null,
+          "description": "KuoKuo666/CocosCreator-Tetris",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,7 +560,7 @@
         {
           "node_type": "item",
           "title": "HorseRace https://github.com/SmileChen518/HorseRace",
-          "description": null,
+          "description": "robot518/HorseRace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -581,7 +581,7 @@
         {
           "node_type": "item",
           "title": "投石对战微信小游戏 https://github.com/jay602/stone_war",
-          "description": null,
+          "description": "jay602/stone_war",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -602,7 +602,7 @@
         {
           "node_type": "item",
           "title": "治愈七夕，微信小游戏，音乐游戏 https://github.com/SmileChen518/MusicGame",
-          "description": null,
+          "description": "robot518/MusicGame",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -623,7 +623,7 @@
         {
           "node_type": "item",
           "title": "2D卷轴闯关小游戏 https://github.com/Zhniing/Play",
-          "description": null,
+          "description": "koiking129/Play",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -648,7 +648,7 @@
         {
           "node_type": "item",
           "title": "密室逃脱类小游戏 https://github.com/fylz1125/SecretBill",
-          "description": null,
+          "description": "fylz1125/SecretBill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -669,7 +669,7 @@
         {
           "node_type": "item",
           "title": "弹跳小卜源码 https://github.com/ccx01/Boo",
-          "description": null,
+          "description": "ccx01/Boo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -690,7 +690,7 @@
         {
           "node_type": "item",
           "title": "篮球小游戏 https://github.com/fylz1125/BasketBall",
-          "description": null,
+          "description": "fylz1125/BasketBall",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -711,7 +711,7 @@
         {
           "node_type": "item",
           "title": "“建造+道具合成+塔防+攻城”模块的游戏前后端源码 https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame",
-          "description": null,
+          "description": "genxium/BuildingAndCraftingAndTowerDefenseGame",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -738,7 +738,7 @@
         {
           "node_type": "item",
           "title": "模拟球弹跳 https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling",
-          "description": null,
+          "description": "Leo501/CocosCreatorTutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -759,7 +759,7 @@
         {
           "node_type": "item",
           "title": "官方Demo集合 https://github.com/cocos-creator/example-3d",
-          "description": null,
+          "description": "cocos/cocos-example-projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -780,7 +780,7 @@
         {
           "node_type": "item",
           "title": "官方testDemo https://github.com/cocos-creator/test-cases-3d",
-          "description": null,
+          "description": "cocos/cocos-test-projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -801,7 +801,7 @@
         {
           "node_type": "item",
           "title": "弹弹乐 https://github.com/cocos-creator/demo-ball",
-          "description": null,
+          "description": "cocos/cocos-example-ball",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -828,7 +828,7 @@
         {
           "node_type": "item",
           "title": "moba demo 多人pvp https://github.com/mankiw/xiaoxiao",
-          "description": null,
+          "description": "mankiw/xiaoxiao",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -849,7 +849,7 @@
         {
           "node_type": "item",
           "title": "打砖块 https://github.com/potato47/brick-breaker-master",
-          "description": null,
+          "description": "potato47/brick-breaker-master",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -870,7 +870,7 @@
         {
           "node_type": "item",
           "title": "躲猫猫 - (cocos creator + pomelo) https://github.com/wohow/peekaboo-master",
-          "description": null,
+          "description": "wohow/peekaboo-master",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -891,7 +891,7 @@
         {
           "node_type": "item",
           "title": "汉字临摹 https://github.com/Amterasu/writerDemo",
-          "description": null,
+          "description": "Amterasu/writerDemo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -912,7 +912,7 @@
         {
           "node_type": "item",
           "title": "tankwar https://github.com/m249212419/tankwar",
-          "description": null,
+          "description": "m249212419/tankwar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -933,7 +933,7 @@
         {
           "node_type": "item",
           "title": "贪吃蛇 https://github.com/dixonzhang/ccc_snake",
-          "description": null,
+          "description": "dixonzhang/ccc_snake",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -954,7 +954,7 @@
         {
           "node_type": "item",
           "title": "六边形游戏 https://github.com/hellozhangran/game-hexagon",
-          "description": null,
+          "description": "hellozhangran/game-hexagon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -982,7 +982,7 @@
         {
           "node_type": "item",
           "title": "斗兽棋 https://github.com/m249212419/doushouqi",
-          "description": null,
+          "description": "m249212419/doushouqi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1009,7 +1009,7 @@
         {
           "node_type": "item",
           "title": "棋牌的胡牌算法，包括麻将、跑胡子、扑克 https://github.com/yuanfengyun/qipai_algorithm",
-          "description": null,
+          "description": "yuanfengyun/q_algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1036,7 +1036,7 @@
         {
           "node_type": "item",
           "title": "21点游戏 https://github.com/cocos-creator/tutorial-blackjack",
-          "description": null,
+          "description": "cocos-creator/tutorial-blackjack-deprecated",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1057,7 +1057,7 @@
         {
           "node_type": "item",
           "title": "WhoIsYourBaby/chess",
-          "description": "https://github.com/ligun123/chess",
+          "description": "WhoIsYourBaby/chess",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1078,7 +1078,7 @@
         {
           "node_type": "item",
           "title": "基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 https://github.com/xiyoufang/mahjong",
-          "description": null,
+          "description": "xiyoufang/mahjong",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1099,7 +1099,7 @@
         {
           "node_type": "item",
           "title": "学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目 https://github.com/tumobi/pomelo-cocos-creator-awesome",
-          "description": null,
+          "description": "tumobi/pomelo-cocos-creator-awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1125,7 +1125,7 @@
         {
           "node_type": "item",
           "title": "捕鱼达人 https://github.com/fylz1125/CCFish",
-          "description": null,
+          "description": "fylz1125/CCFish",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1146,7 +1146,7 @@
         {
           "node_type": "item",
           "title": "poker-game-demo https://github.com/zifeiy/poker-game-demo",
-          "description": null,
+          "description": "zifeiy/poker-game-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1167,7 +1167,7 @@
         {
           "node_type": "item",
           "title": "帧同步打造3D台球 https://github.com/EricDDK/billiards_cocos2d",
-          "description": null,
+          "description": "EricDDK/billiards_cocos2d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1188,7 +1188,7 @@
         {
           "node_type": "item",
           "title": "棋牌类游戏框架，参考网狐 https://github.com/shihuaping/gamex",
-          "description": null,
+          "description": "shihuaping/gamex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1214,7 +1214,7 @@
         {
           "node_type": "item",
           "title": "德州扑克 https://github.com/tiancityycf/cocos",
-          "description": null,
+          "description": "tiancityycf/cocos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1235,7 +1235,7 @@
         {
           "node_type": "item",
           "title": "斗地主 https://github.com/haoyuan336/doudizhu_os",
-          "description": null,
+          "description": "haoyuan336/doudizhu_os",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1256,7 +1256,7 @@
         {
           "node_type": "item",
           "title": "幼麟棋牌-四川麻将v1.0 https://github.com/babykylin/babykylin_scmj",
-          "description": null,
+          "description": "babykylin/babykylin_scmj",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1277,7 +1277,7 @@
         {
           "node_type": "item",
           "title": "斗地主1.3 https://github.com/dixonzhang/cocos-doudizhu",
-          "description": null,
+          "description": "dixonzhang/cocos-doudizhu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1298,7 +1298,7 @@
         {
           "node_type": "item",
           "title": "轮盘抽奖 https://github.com/sky068/Wheel_CocosCreator",
-          "description": null,
+          "description": "sky068/Wheel_CocosCreator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1319,7 +1319,7 @@
         {
           "node_type": "item",
           "title": "广东四川麻将的吃碰杠听胡逻辑以及广东麻将简易的AI实现 https://github.com/TLeaves/MahjongLogic",
-          "description": null,
+          "description": "TLeaves/MahjongLogic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1340,7 +1340,7 @@
         {
           "node_type": "item",
           "title": "nodejs在线对战斗地主 https://github.com/ksky521/doudizhu",
-          "description": null,
+          "description": "ksky521/DouZero",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1361,7 +1361,7 @@
         {
           "node_type": "item",
           "title": "cocoscreator(1.7版本)实现刮刮卡功能 https://github.com/sky068/scratchCard",
-          "description": null,
+          "description": "sky068/scratchCard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1388,7 +1388,7 @@
         {
           "node_type": "item",
           "title": "2d https://github.com/cocos-creator/creator-docs",
-          "description": null,
+          "description": "cocos/cocos-docs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1412,7 +1412,7 @@
         {
           "node_type": "item",
           "title": "常见问题归纳 https://github.com/Jno1995/CocosCreator-FAQ",
-          "description": null,
+          "description": "zhefengzhang/CocosCreator-FAQ",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1433,7 +1433,7 @@
         {
           "node_type": "item",
           "title": "3d https://github.com/cocos-creator/docs-3d",
-          "description": null,
+          "description": "cocos-creator/docs-3d-deprecated",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1460,7 +1460,7 @@
         {
           "node_type": "item",
           "title": "2youyou2/physics-example",
-          "description": null,
+          "description": "2youyou2/physics-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1481,7 +1481,7 @@
         {
           "node_type": "item",
           "title": "打砖块 https://github.com/potato47/brick-breaker-master",
-          "description": null,
+          "description": "potato47/brick-breaker-master",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1502,7 +1502,7 @@
         {
           "node_type": "item",
           "title": "Cocos Creator 2.0 Material example https://github.com/fylz1125/heartfelt",
-          "description": null,
+          "description": "fylz1125/heartfelt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1529,7 +1529,7 @@
         {
           "node_type": "item",
           "title": "creator 2.x推出了新的Material系统 https://github.com/fylz1125/ShaderDemos",
-          "description": null,
+          "description": "fylz1125/ShaderDemos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1550,7 +1550,7 @@
         {
           "node_type": "item",
           "title": "Cocos Creator Shader Effect 系列 https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo",
-          "description": null,
+          "description": "zhitaocai/CocosCreator-Shader-Effect-Demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1571,7 +1571,7 @@
         {
           "node_type": "item",
           "title": "CocosCreator Effect第三方控件 https://github.com/colin3dmax/CocosCreator",
-          "description": null,
+          "description": "colin3dmax/CocosCreator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1592,7 +1592,7 @@
         {
           "node_type": "item",
           "title": "Cocos Creator 2.x Shader组件 https://github.com/ShawnZhang2015/ShaderHelper",
-          "description": null,
+          "description": "ShawnZhang2015/ShaderHelper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1613,7 +1613,7 @@
         {
           "node_type": "item",
           "title": "2.x https://github.com/colinsusie/creator_2_0_material_demo",
-          "description": null,
+          "description": "colinsusie/creator_2_0_material_demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1642,7 +1642,7 @@
             {
               "node_type": "item",
               "title": "微信小游戏子域排行榜系统cocos示例程序 https://github.com/864381832/wxGameRank",
-              "description": null,
+              "description": "864381832/wxGameRank",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1665,7 +1665,7 @@
             {
               "node_type": "item",
               "title": "cocos-creator-h5-wxapi https://github.com/caochao/cocos-creator-h5-wxapi",
-              "description": null,
+              "description": "caochao/cocos-creator-h5-wxapi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1693,7 +1693,7 @@
             {
               "node_type": "item",
               "title": "ccc-devtools https://github.com/potato47/ccc-devtools",
-              "description": null,
+              "description": "potato47/ccc-devtools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1723,7 +1723,7 @@
             {
               "node_type": "item",
               "title": "build & optimize & deploy https://github.com/babyzone2004/cocos-fly",
-              "description": null,
+              "description": "babyzone2004/cocos-fly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1751,7 +1751,7 @@
             {
               "node_type": "item",
               "title": "免费插件 https://github.com/tidys/CocosCreatorPlugins",
-              "description": null,
+              "description": "tidys/CocosCreatorPlugins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1786,7 +1786,7 @@
             {
               "node_type": "item",
               "title": "大厅+子游戏 https://github.com/TopDiscover/QuickFramework",
-              "description": null,
+              "description": "TopDiscover/QuickFramework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1817,7 +1817,7 @@
             {
               "node_type": "item",
               "title": "资源加密方案 https://github.com/zhitaocai/CocosCreator-Build-Encrypt",
-              "description": null,
+              "description": "zhitaocai/CocosCreator-Build-Encrypt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1845,7 +1845,7 @@
             {
               "node_type": "item",
               "title": "奎特尔星球上的UI大杀器 https://github.com/ShawnZhang2015/uikiller",
-              "description": null,
+              "description": "ShawnZhang2015/uikiller",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1866,7 +1866,7 @@
             {
               "node_type": "item",
               "title": "UILoader(资源加载和资源释放) https://github.com/1083921307/UILoader",
-              "description": null,
+              "description": "1083921307/UILoader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1894,7 +1894,7 @@
             {
               "node_type": "item",
               "title": "GodGuide https://github.com/ShawnZhang2015/GodGuide",
-              "description": null,
+              "description": "ShawnZhang2015/GodGuide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1922,7 +1922,7 @@
             {
               "node_type": "item",
               "title": "一个基于 OpenGL 和 Creator 的攻击范围绘制Demo https://github.com/shpz/AttackArea",
-              "description": null,
+              "description": "shpz/AttackArea",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1943,7 +1943,7 @@
             {
               "node_type": "item",
               "title": "Learn OpenGL ES via Cocos2D-X https://github.com/zilongshanren/OpenGLES-cocos2dx",
-              "description": null,
+              "description": "zilongshanren/OpenGLES-cocos2dx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1971,7 +1971,7 @@
             {
               "node_type": "item",
               "title": "多人在线pv https://github.com/wheatup/scrabble",
-              "description": null,
+              "description": "wheatup/scrabble",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1999,7 +1999,7 @@
             {
               "node_type": "item",
               "title": "TSRPC + Cocos 多人实时对战 Demo https://github.com/k8w/tsrpc-examples/tree/main/examples/cocos-creator-multiplayer",
-              "description": null,
+              "description": "k8w/tsrpc-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2020,7 +2020,7 @@
             {
               "node_type": "item",
               "title": "帧同步和状态同步 https://github.com/cisen/blog/issues/304",
-              "description": null,
+              "description": "cisen/blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2041,7 +2041,7 @@
             {
               "node_type": "item",
               "title": "乐观帧同步网页示例，支持断线重连 https://github.com/fylz1125/LockstepDemo",
-              "description": null,
+              "description": "fylz1125/LockstepDemo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2069,7 +2069,7 @@
             {
               "node_type": "item",
               "title": "sky068/AstarCreator",
-              "description": null,
+              "description": "sky068/AstarCreator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2097,7 +2097,7 @@
             {
               "node_type": "item",
               "title": "behavior3/behavior3editor",
-              "description": null,
+              "description": "behavior3/behavior3editor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2125,7 +2125,7 @@
             {
               "node_type": "item",
               "title": "支持2.0~2.3 https://github.com/baibai2013/cocos-creator-gifLib",
-              "description": null,
+              "description": "baibai2013/cocos-creator-gifLib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2146,7 +2146,7 @@
             {
               "node_type": "item",
               "title": "支持2.4.4 https://github.com/newGy/cocos-creator-gif-2.4.4/",
-              "description": null,
+              "description": "newGy/cocos-creator-gif-2.4.4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2174,7 +2174,7 @@
             {
               "node_type": "item",
               "title": "支持2.0~2.3 https://github.com/fkworld/cocos-to-playable-ad",
-              "description": null,
+              "description": "fkworld/cocos-to-playable-ad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2206,7 +2206,7 @@
             {
               "node_type": "item",
               "title": "【CocosTextMeshPro】一个文本渲染解决方案——支持字体颜色渐变、斜体、下划线、删除线、描边、镂空、阴影、辉光、顶点动画、新的排版模式 https://github.com/LeeYip/cocos-text-mesh-pro",
-              "description": null,
+              "description": "LeeYip/cocos-text-mesh-pro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2240,7 +2240,7 @@
             {
               "node_type": "item",
               "title": "贝塞尔曲线的路径实现 https://github.com/haoyuan336/cocoscreator3dBezier/tree/master/Bezier",
-              "description": null,
+              "description": "haoyuan336/cocoscreator3dBezier",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2268,7 +2268,7 @@
             {
               "node_type": "item",
               "title": "极光推送sdk https://github.com/longyinzaitian/JiGuangIntegration",
-              "description": null,
+              "description": "longyinzaitian/JiGuangIntegration",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2296,7 +2296,7 @@
             {
               "node_type": "item",
               "title": "spine转龙骨工具 https://github.com/DragonBones/Tools/blob/master/README-zh_CN.md",
-              "description": null,
+              "description": "DragonBones/Tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:03:58.870Z",
+    "last_updated": "2026-10-03T04:29:42.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
@@ -2341,7 +2341,7 @@
       "open_issues": 7,
       "owner": "Leo501",
       "repo": "awesome-CocosCreator",
-      "stars": 3204,
+      "stars": 3203,
       "topics": []
     },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
