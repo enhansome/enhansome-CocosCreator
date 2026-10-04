@@ -133,7 +133,7 @@ Cocos Creator 资源合集
 
 ### 物理系统
 
-* <https://github.com/2youyou2/physics-example> ⭐ 414 | 🐛 1 | 🌐 JavaScript | 📅 2020-09-28
+* <https://github.com/2youyou2/physics-example> ⭐ 415 | 🐛 1 | 🌐 JavaScript | 📅 2020-09-28
 * 打砖块 <https://github.com/potato47/brick-breaker-master> ⭐ 77 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-13
 * Cocos Creator 2.0 Material example <https://github.com/fylz1125/heartfelt> ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-09
 * 常用物理知识 <https://blog.csdn.net/qiushisoftware/article/details/12139831>
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
