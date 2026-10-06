@@ -92,7 +92,7 @@ Cocos Creator 资源合集
 * 学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目 <https://github.com/tumobi/pomelo-cocos-creator-awesome> ⭐ 399 | 🐛 0 | 📅 2018-11-15
 * 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 289 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
 * poker-game-demo <https://github.com/zifeiy/poker-game-demo> ⭐ 252 | 🐛 2 | 🌐 JavaScript | 📅 2017-09-19
-* 帧同步打造3D台球 <https://github.com/EricDDK/billiards_cocos2d> ⭐ 162 | 🐛 2 | 🌐 C++ | 📅 2019-05-22
+* 帧同步打造3D台球 <https://github.com/EricDDK/billiards_cocos2d> ⭐ 161 | 🐛 2 | 🌐 C++ | 📅 2019-05-22
 * 棋牌类游戏框架，参考网狐 <https://github.com/shihuaping/gamex> ⭐ 158 | 🐛 4 | 🌐 JavaScript | 📅 2020-01-08
 * 德州扑克 <https://github.com/tiancityycf/cocos> ⭐ 132 | 🐛 2 | 🌐 JavaScript | 📅 2019-02-18
 * 斗地主 <https://github.com/haoyuan336/doudizhu_os> ⭐ 92 | 🐛 4 | 🌐 JavaScript | 📅 2018-02-02
