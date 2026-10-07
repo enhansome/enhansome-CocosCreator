@@ -55,7 +55,7 @@ Cocos Creator 资源合集
 
 ***
 
-* “建造+道具合成+塔防+攻城”模块的游戏前后端源码 <https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame> ⭐ 380 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-05
+* “建造+道具合成+塔防+攻城”模块的游戏前后端源码 <https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame> ⭐ 381 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-05
 
 #### 3d游戏
 
@@ -273,7 +273,7 @@ Cocos Creator 资源合集
 
 ### AI行为树
 
-* <https://github.com/behavior3/behavior3editor> ⭐ 707 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
+* <https://github.com/behavior3/behavior3editor> ⭐ 704 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
 
 ### 支持gif
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
