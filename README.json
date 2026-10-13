@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "wyb10a10",
             "repo": "cocos_creator_framework",
-            "stars": 1049,
+            "stars": 1050,
             "topics": [
               "cocos",
               "cocos-creator",
@@ -1706,7 +1706,7 @@
                 "open_issues": 15,
                 "owner": "potato47",
                 "repo": "ccc-devtools",
-                "stars": 1269,
+                "stars": 1270,
                 "topics": [
                   "cocos-creator"
                 ]
@@ -2030,7 +2030,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2020-12-26T15:07:54Z",
-                "open_issues": 1282,
+                "open_issues": 1284,
                 "owner": "cisen",
                 "repo": "blog",
                 "stars": 141,
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:14:34.689Z",
+    "last_updated": "2026-10-13T16:28:43.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
@@ -2341,7 +2341,7 @@
       "open_issues": 7,
       "owner": "Leo501",
       "repo": "awesome-CocosCreator",
-      "stars": 3213,
+      "stars": 3216,
       "topics": []
     },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
