@@ -1091,7 +1091,7 @@
             "open_issues": 2,
             "owner": "xiyoufang",
             "repo": "mahjong",
-            "stars": 437,
+            "stars": 438,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
@@ -2030,7 +2030,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2020-12-26T15:07:54Z",
-                "open_issues": 1284,
+                "open_issues": 1285,
                 "owner": "cisen",
                 "repo": "blog",
                 "stars": 141,
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:28:03.832Z",
+    "last_updated": "2026-10-18T12:48:14.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
