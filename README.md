@@ -61,7 +61,7 @@ Cocos Creator 资源合集
 
 * 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 786 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 588 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
-* 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 329 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-08
+* 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 329 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-20
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
 * Creator 3D 材质系统：曲面效果如何实现 <https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA>
 * 合成大西瓜3D版本 <https://store.cocos.com/app/detail/2687>
@@ -88,7 +88,7 @@ Cocos Creator 资源合集
 * 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,101 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
 * <https://github.com/ligun123/chess> ⭐ 473 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 473 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01
-* 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 438 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
+* 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 439 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
 * 学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目 <https://github.com/tumobi/pomelo-cocos-creator-awesome> ⭐ 399 | 🐛 0 | 📅 2018-11-15
 * 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 289 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
 * poker-game-demo <https://github.com/zifeiy/poker-game-demo> ⭐ 251 | 🐛 2 | 🌐 JavaScript | 📅 2017-09-19
@@ -97,7 +97,7 @@ Cocos Creator 资源合集
 * 德州扑克 <https://github.com/tiancityycf/cocos> ⭐ 132 | 🐛 2 | 🌐 JavaScript | 📅 2019-02-18
 * 斗地主 <https://github.com/haoyuan336/doudizhu_os> ⭐ 92 | 🐛 4 | 🌐 JavaScript | 📅 2018-02-02
 * 幼麟棋牌-四川麻将v1.0 <https://github.com/babykylin/babykylin_scmj> ⭐ 87 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-30
-* 斗地主1.3 <https://github.com/dixonzhang/cocos-doudizhu> ⭐ 78 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-02
+* 斗地主1.3 <https://github.com/dixonzhang/cocos-doudizhu> ⭐ 77 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-02
 * 轮盘抽奖 <https://github.com/sky068/Wheel_CocosCreator> ⭐ 64 | 🐛 1 | 🌐 JavaScript | 📅 2025-09-26
 * 广东四川麻将的吃碰杠听胡逻辑以及广东麻将简易的AI实现 <https://github.com/TLeaves/MahjongLogic> ⭐ 51 | 🐛 2 | 🌐 Lua | 📅 2015-04-30
 * nodejs在线对战斗地主 <https://github.com/ksky521/doudizhu> ⭐ 49 | 🐛 0 | 🌐 JavaScript | 📅 2012-11-08
@@ -145,8 +145,8 @@ Cocos Creator 资源合集
 
 ### Shader
 
-* creator 2.x推出了新的Material系统 <https://github.com/fylz1125/ShaderDemos> ⭐ 1,012 | 🐛 9 | 🌐 GLSL | 📅 2019-06-26
-* Cocos Creator Shader Effect 系列 <https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo> ⭐ 483 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-23
+* creator 2.x推出了新的Material系统 <https://github.com/fylz1125/ShaderDemos> ⭐ 1,013 | 🐛 9 | 🌐 GLSL | 📅 2019-06-26
+* Cocos Creator Shader Effect 系列 <https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo> ⭐ 484 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-23
 * CocosCreator Effect第三方控件 <https://github.com/colin3dmax/CocosCreator> ⭐ 429 | 🐛 4 | 🌐 GLSL | 📅 2017-08-18
 * Cocos Creator 2.x Shader组件 <https://github.com/ShawnZhang2015/ShaderHelper> ⭐ 234 | 🐛 1 | 🌐 JavaScript | 📅 2019-03-20
 * 2.x <https://github.com/colinsusie/creator_2_0_material_demo> ⭐ 109 | 🐛 5 | 🌐 JavaScript | 📅 2018-09-18
@@ -181,7 +181,7 @@ Cocos Creator 资源合集
 
 ### 调试工具
 
-* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,270 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,271 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 
 ### H5构建
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
