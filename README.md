@@ -181,7 +181,7 @@ Cocos Creator 资源合集
 
 ### 调试工具
 
-* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,271 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,272 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 
 ### H5构建
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
