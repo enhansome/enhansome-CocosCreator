@@ -59,7 +59,7 @@ Cocos Creator 资源合集
 
 #### 3d游戏
 
-* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 786 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
+* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 785 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 589 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
 * 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 329 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-20
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
@@ -110,7 +110,7 @@ Cocos Creator 资源合集
 
 ### 官方手册
 
-* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 401 | 🐛 184 | 🌐 TypeScript | 📅 2026-10-23
+* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 401 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-23
 * 常见问题归纳 <https://github.com/Jno1995/CocosCreator-FAQ> ⭐ 36 | 🐛 0 | 📅 2022-03-14
 * 3d <https://github.com/cocos-creator/docs-3d> ⚠️ Archived
 
@@ -245,7 +245,7 @@ Cocos Creator 资源合集
 
 ### 新手引导
 
-* GodGuide <https://github.com/ShawnZhang2015/GodGuide> ⭐ 178 | 🐛 2 | 🌐 JavaScript | 📅 2020-04-12
+* GodGuide <https://github.com/ShawnZhang2015/GodGuide> ⭐ 179 | 🐛 2 | 🌐 JavaScript | 📅 2020-04-12
 
 ### OpenGL
 
@@ -260,7 +260,7 @@ Cocos Creator 资源合集
 ### 同步
 
 * TSRPC + Cocos 多人实时对战 Demo <https://github.com/k8w/tsrpc-examples/tree/main/examples/cocos-creator-multiplayer> ⭐ 304 | 🐛 4 | 🌐 JavaScript | 📅 2023-02-23
-* 帧同步和状态同步 <https://github.com/cisen/blog/issues/304> ⭐ 141 | 🐛 1,285 | 🌐 HTML | 📅 2020-12-26
+* 帧同步和状态同步 <https://github.com/cisen/blog/issues/304> ⭐ 141 | 🐛 1,287 | 🌐 HTML | 📅 2020-12-26
 * 乐观帧同步网页示例，支持断线重连 <https://github.com/fylz1125/LockstepDemo> ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2018-09-22
 * RPC 框架 <https://tsrpc.cn/docs/introduction.html>
 * 手游后台PVP系统网络同步方案总结 <https://cloud.tencent.com/developer/article/1097767>
@@ -273,7 +273,7 @@ Cocos Creator 资源合集
 
 ### AI行为树
 
-* <https://github.com/behavior3/behavior3editor> ⭐ 703 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
+* <https://github.com/behavior3/behavior3editor> ⭐ 704 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
 
 ### 支持gif
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
