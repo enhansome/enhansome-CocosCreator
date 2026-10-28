@@ -420,7 +420,7 @@
             "open_issues": 5,
             "owner": "isghost",
             "repo": "kaixinxiaoxiaole",
-            "stars": 810,
+            "stars": 812,
             "topics": [
               "cocos2d-x",
               "game-2d",
@@ -445,7 +445,7 @@
             "open_issues": 1,
             "owner": "shenghy",
             "repo": "Cocos_Basement",
-            "stars": 325,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
@@ -1398,7 +1398,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-23T01:58:00Z",
-            "open_issues": 186,
+            "open_issues": 188,
             "owner": "cocos",
             "repo": "cocos-docs",
             "stars": 401,
@@ -1706,7 +1706,7 @@
                 "open_issues": 15,
                 "owner": "potato47",
                 "repo": "ccc-devtools",
-                "stars": 1273,
+                "stars": 1274,
                 "topics": [
                   "cocos-creator"
                 ]
@@ -2012,7 +2012,7 @@
                 "open_issues": 4,
                 "owner": "k8w",
                 "repo": "tsrpc-examples",
-                "stars": 304,
+                "stars": 303,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
@@ -2030,7 +2030,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2020-12-26T15:07:54Z",
-                "open_issues": 1287,
+                "open_issues": 1289,
                 "owner": "cisen",
                 "repo": "blog",
                 "stars": 141,
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T14:56:36.619Z",
+    "last_updated": "2026-10-28T15:30:04.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",

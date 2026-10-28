@@ -38,8 +38,8 @@ Cocos Creator 资源合集
 
 ***
 
-* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 810 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-07
-* 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 325 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
+* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 812 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-07
+* 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
 * 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 271 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
 * 七彩蹦蹦 <https://github.com/shichaohui/ColorUp> ⭐ 156 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-16
 * 物理弹球 <https://github.com/andynicoo/Physical-Pinball> ⭐ 155 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-15
@@ -110,7 +110,7 @@ Cocos Creator 资源合集
 
 ### 官方手册
 
-* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 401 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-23
+* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 401 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-23
 * 常见问题归纳 <https://github.com/Jno1995/CocosCreator-FAQ> ⭐ 36 | 🐛 0 | 📅 2022-03-14
 * 3d <https://github.com/cocos-creator/docs-3d> ⚠️ Archived
 
@@ -181,7 +181,7 @@ Cocos Creator 资源合集
 
 ### 调试工具
 
-* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,273 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,274 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 
 ### H5构建
 
@@ -259,8 +259,8 @@ Cocos Creator 资源合集
 
 ### 同步
 
-* TSRPC + Cocos 多人实时对战 Demo <https://github.com/k8w/tsrpc-examples/tree/main/examples/cocos-creator-multiplayer> ⭐ 304 | 🐛 4 | 🌐 JavaScript | 📅 2023-02-23
-* 帧同步和状态同步 <https://github.com/cisen/blog/issues/304> ⭐ 141 | 🐛 1,287 | 🌐 HTML | 📅 2020-12-26
+* TSRPC + Cocos 多人实时对战 Demo <https://github.com/k8w/tsrpc-examples/tree/main/examples/cocos-creator-multiplayer> ⭐ 303 | 🐛 4 | 🌐 JavaScript | 📅 2023-02-23
+* 帧同步和状态同步 <https://github.com/cisen/blog/issues/304> ⭐ 141 | 🐛 1,289 | 🌐 HTML | 📅 2020-12-26
 * 乐观帧同步网页示例，支持断线重连 <https://github.com/fylz1125/LockstepDemo> ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2018-09-22
 * RPC 框架 <https://tsrpc.cn/docs/introduction.html>
 * 手游后台PVP系统网络同步方案总结 <https://cloud.tencent.com/developer/article/1097767>
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
