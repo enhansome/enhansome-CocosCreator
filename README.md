@@ -59,7 +59,7 @@ Cocos Creator 资源合集
 
 #### 3d游戏
 
-* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 785 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
+* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 786 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 587 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
 * 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 329 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-29
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
@@ -133,7 +133,7 @@ Cocos Creator 资源合集
 
 ### 物理系统
 
-* <https://github.com/2youyou2/physics-example> ⭐ 415 | 🐛 1 | 🌐 JavaScript | 📅 2020-09-28
+* <https://github.com/2youyou2/physics-example> ⭐ 416 | 🐛 1 | 🌐 JavaScript | 📅 2020-09-28
 * 打砖块 <https://github.com/potato47/brick-breaker-master> ⭐ 77 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-13
 * Cocos Creator 2.0 Material example <https://github.com/fylz1125/heartfelt> ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-09
 * 常用物理知识 <https://blog.csdn.net/qiushisoftware/article/details/12139831>
@@ -181,7 +181,7 @@ Cocos Creator 资源合集
 
 ### 调试工具
 
-* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,274 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,275 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 
 ### H5构建
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
