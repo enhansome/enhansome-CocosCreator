@@ -1022,7 +1022,7 @@
             "open_issues": 20,
             "owner": "yuanfengyun",
             "repo": "q_algorithm",
-            "stars": 2101,
+            "stars": 2099,
             "topics": [
               "algorithm",
               "doudizhu",
@@ -1070,7 +1070,7 @@
             "open_issues": 53,
             "owner": "WhoIsYourBaby",
             "repo": "chess",
-            "stars": 473,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
@@ -1398,7 +1398,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-29T10:54:59Z",
-            "open_issues": 188,
+            "open_issues": 186,
             "owner": "cocos",
             "repo": "cocos-docs",
             "stars": 402,
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:52:44.033Z",
+    "last_updated": "2026-11-06T16:20:03.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
@@ -2341,7 +2341,7 @@
       "open_issues": 7,
       "owner": "Leo501",
       "repo": "awesome-CocosCreator",
-      "stars": 3247,
+      "stars": 3251,
       "topics": []
     },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
