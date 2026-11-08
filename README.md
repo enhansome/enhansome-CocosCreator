@@ -38,7 +38,7 @@ Cocos Creator 资源合集
 
 ***
 
-* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 816 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-07
+* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 815 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-07
 * 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
 * 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 271 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
 * 七彩蹦蹦 <https://github.com/shichaohui/ColorUp> ⭐ 156 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-16
@@ -59,7 +59,7 @@ Cocos Creator 资源合集
 
 #### 3d游戏
 
-* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 785 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
+* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 786 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 587 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
 * 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 328 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-29
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
@@ -181,7 +181,7 @@ Cocos Creator 资源合集
 
 ### 调试工具
 
-* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,275 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,276 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 
 ### H5构建
 
@@ -260,7 +260,7 @@ Cocos Creator 资源合集
 ### 同步
 
 * TSRPC + Cocos 多人实时对战 Demo <https://github.com/k8w/tsrpc-examples/tree/main/examples/cocos-creator-multiplayer> ⭐ 303 | 🐛 4 | 🌐 JavaScript | 📅 2023-02-23
-* 帧同步和状态同步 <https://github.com/cisen/blog/issues/304> ⭐ 141 | 🐛 1,293 | 🌐 HTML | 📅 2020-12-26
+* 帧同步和状态同步 <https://github.com/cisen/blog/issues/304> ⭐ 141 | 🐛 1,294 | 🌐 HTML | 📅 2020-12-26
 * 乐观帧同步网页示例，支持断线重连 <https://github.com/fylz1125/LockstepDemo> ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2018-09-22
 * RPC 框架 <https://tsrpc.cn/docs/introduction.html>
 * 手游后台PVP系统网络同步方案总结 <https://cloud.tencent.com/developer/article/1097767>
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
