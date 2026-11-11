@@ -87,7 +87,7 @@ Cocos Creator 资源合集
 
 * 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,099 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
-* <https://github.com/ligun123/chess> ⭐ 474 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 474 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01
+* <https://github.com/ligun123/chess> ⭐ 475 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 475 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01
 * 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 442 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
 * 学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目 <https://github.com/tumobi/pomelo-cocos-creator-awesome> ⭐ 399 | 🐛 0 | 📅 2018-11-15
 * 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 288 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
@@ -110,7 +110,7 @@ Cocos Creator 资源合集
 
 ### 官方手册
 
-* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 402 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-29
+* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 403 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-29
 * 常见问题归纳 <https://github.com/Jno1995/CocosCreator-FAQ> ⭐ 36 | 🐛 0 | 📅 2022-03-14
 * 3d <https://github.com/cocos-creator/docs-3d> ⚠️ Archived
 
@@ -260,7 +260,7 @@ Cocos Creator 资源合集
 ### 同步
 
 * TSRPC + Cocos 多人实时对战 Demo <https://github.com/k8w/tsrpc-examples/tree/main/examples/cocos-creator-multiplayer> ⭐ 303 | 🐛 4 | 🌐 JavaScript | 📅 2023-02-23
-* 帧同步和状态同步 <https://github.com/cisen/blog/issues/304> ⭐ 141 | 🐛 1,294 | 🌐 HTML | 📅 2020-12-26
+* 帧同步和状态同步 <https://github.com/cisen/blog/issues/304> ⭐ 142 | 🐛 1,294 | 🌐 HTML | 📅 2020-12-26
 * 乐观帧同步网页示例，支持断线重连 <https://github.com/fylz1125/LockstepDemo> ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2018-09-22
 * RPC 框架 <https://tsrpc.cn/docs/introduction.html>
 * 手游后台PVP系统网络同步方案总结 <https://cloud.tencent.com/developer/article/1097767>
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

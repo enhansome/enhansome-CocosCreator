@@ -648,7 +648,7 @@
         {
           "node_type": "item",
           "title": "密室逃脱类小游戏 https://github.com/fylz1125/SecretBill",
-          "description": "fylz1125/SecretBill",
+          "description": "wlerry/SecretBill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -659,7 +659,7 @@
             "license": null,
             "last_commit": "2017-02-20T09:24:19Z",
             "open_issues": 0,
-            "owner": "fylz1125",
+            "owner": "wlerry",
             "repo": "SecretBill",
             "stars": 6,
             "topics": []
@@ -690,7 +690,7 @@
         {
           "node_type": "item",
           "title": "篮球小游戏 https://github.com/fylz1125/BasketBall",
-          "description": "fylz1125/BasketBall",
+          "description": "wlerry/BasketBall",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -701,7 +701,7 @@
             "license": null,
             "last_commit": "2016-12-07T08:12:35Z",
             "open_issues": 0,
-            "owner": "fylz1125",
+            "owner": "wlerry",
             "repo": "BasketBall",
             "stars": 4,
             "topics": []
@@ -1070,7 +1070,7 @@
             "open_issues": 53,
             "owner": "WhoIsYourBaby",
             "repo": "chess",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
@@ -1125,7 +1125,7 @@
         {
           "node_type": "item",
           "title": "捕鱼达人 https://github.com/fylz1125/CCFish",
-          "description": "fylz1125/CCFish",
+          "description": "wlerry/CCFish",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1136,7 +1136,7 @@
             "license": null,
             "last_commit": "2022-04-25T08:19:14Z",
             "open_issues": 2,
-            "owner": "fylz1125",
+            "owner": "wlerry",
             "repo": "CCFish",
             "stars": 288,
             "topics": []
@@ -1401,7 +1401,7 @@
             "open_issues": 186,
             "owner": "cocos",
             "repo": "cocos-docs",
-            "stars": 402,
+            "stars": 403,
             "topics": [
               "doc",
               "documentation"
@@ -1502,7 +1502,7 @@
         {
           "node_type": "item",
           "title": "Cocos Creator 2.0 Material example https://github.com/fylz1125/heartfelt",
-          "description": "fylz1125/heartfelt",
+          "description": "wlerry/heartfelt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1513,7 +1513,7 @@
             "license": "MIT",
             "last_commit": "2018-08-09T07:00:35Z",
             "open_issues": 0,
-            "owner": "fylz1125",
+            "owner": "wlerry",
             "repo": "heartfelt",
             "stars": 2,
             "topics": []
@@ -1529,7 +1529,7 @@
         {
           "node_type": "item",
           "title": "creator 2.x推出了新的Material系统 https://github.com/fylz1125/ShaderDemos",
-          "description": "fylz1125/ShaderDemos",
+          "description": "wlerry/ShaderDemos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1540,7 +1540,7 @@
             "license": null,
             "last_commit": "2019-06-26T10:17:00Z",
             "open_issues": 9,
-            "owner": "fylz1125",
+            "owner": "wlerry",
             "repo": "ShaderDemos",
             "stars": 1013,
             "topics": []
@@ -2033,7 +2033,7 @@
                 "open_issues": 1294,
                 "owner": "cisen",
                 "repo": "blog",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:57.076Z"
@@ -2041,7 +2041,7 @@
             {
               "node_type": "item",
               "title": "乐观帧同步网页示例，支持断线重连 https://github.com/fylz1125/LockstepDemo",
-              "description": "fylz1125/LockstepDemo",
+              "description": "wlerry/LockstepDemo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2052,7 +2052,7 @@
                 "license": null,
                 "last_commit": "2018-09-22T01:33:02Z",
                 "open_issues": 0,
-                "owner": "fylz1125",
+                "owner": "wlerry",
                 "repo": "LockstepDemo",
                 "stars": 4,
                 "topics": []
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T16:37:20.086Z",
+    "last_updated": "2026-11-11T16:38:58.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
