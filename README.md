@@ -8,9 +8,9 @@ Cocos Creator 资源合集
 
 * cocos creator 基础框架，包含资源、ui管理，网络模块 <https://github.com/wyb10a10/cocos_creator_framework> ⭐ 1,051 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-21
 * cocos creator项目基础类库 <https://github.com/caochao/cocos_creator_proj_base> ⭐ 845 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
-* CocosCreator\_UIFrameWork <https://github.com/kirikayakazuto/CocosCreator_UIFrameWork> ⭐ 810 | 🐛 9 | 🌐 TypeScript | 📅 2024-03-20
+* CocosCreator\_UIFrameWork <https://github.com/kirikayakazuto/CocosCreator_UIFrameWork> ⭐ 809 | 🐛 9 | 🌐 TypeScript | 📅 2024-03-20
 * cocos creator 的 mvvm 的工具 集 <https://github.com/wsssheep/cocos_creator_mvvm_tools> ⭐ 545 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24
-* GameplayFramework <https://github.com/huangx916/GameplayFramework> ⭐ 306 | 🐛 2 | 🌐 TypeScript | 📅 2019-07-31
+* GameplayFramework <https://github.com/huangx916/GameplayFramework> ⭐ 305 | 🐛 2 | 🌐 TypeScript | 📅 2019-07-31
 * ECS框架 <https://github.com/darkoverlordofdata/entitas-ts> ⭐ 223 | 🐛 3 | 🌐 TypeScript | 📅 2017-03-28
 * lightMVC [https://github.com/yue19870813/lightMVC](https://github.com/yue19870813/ituuz-x) ⭐ 150 | 🐛 3 | 🌐 TypeScript | 📅 2020-05-26
 * ccc游戏框架 <https://github.com/tonyshow/tonyCocosCreatorDamo> ⭐ 52 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-07
@@ -145,8 +145,8 @@ Cocos Creator 资源合集
 
 ### Shader
 
-* creator 2.x推出了新的Material系统 <https://github.com/fylz1125/ShaderDemos> ⭐ 1,013 | 🐛 9 | 🌐 GLSL | 📅 2019-06-26
-* Cocos Creator Shader Effect 系列 <https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo> ⭐ 484 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-23
+* creator 2.x推出了新的Material系统 <https://github.com/fylz1125/ShaderDemos> ⭐ 1,012 | 🐛 9 | 🌐 GLSL | 📅 2019-06-26
+* Cocos Creator Shader Effect 系列 <https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo> ⭐ 483 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-23
 * CocosCreator Effect第三方控件 <https://github.com/colin3dmax/CocosCreator> ⭐ 428 | 🐛 4 | 🌐 GLSL | 📅 2017-08-18
 * Cocos Creator 2.x Shader组件 <https://github.com/ShawnZhang2015/ShaderHelper> ⭐ 234 | 🐛 1 | 🌐 JavaScript | 📅 2019-03-20
 * 2.x <https://github.com/colinsusie/creator_2_0_material_demo> ⭐ 109 | 🐛 5 | 🌐 JavaScript | 📅 2018-09-18
@@ -189,7 +189,7 @@ Cocos Creator 资源合集
 
 ### 插件
 
-* 免费插件 <https://github.com/tidys/CocosCreatorPlugins> ⭐ 696 | 🐛 12 | 🌐 JavaScript | 📅 2021-03-21
+* 免费插件 <https://github.com/tidys/CocosCreatorPlugins> ⭐ 695 | 🐛 12 | 🌐 JavaScript | 📅 2021-03-21
 
 ### 原生打包
 
@@ -211,7 +211,7 @@ Cocos Creator 资源合集
 
 ### 资源加密
 
-* 资源加密方案 <https://github.com/zhitaocai/CocosCreator-Build-Encrypt> ⭐ 123 | 🐛 3 | 🌐 TypeScript | 📅 2026-01-20
+* 资源加密方案 <https://github.com/zhitaocai/CocosCreator-Build-Encrypt> ⭐ 122 | 🐛 3 | 🌐 TypeScript | 📅 2026-01-20
 
 ### 解压zip
 
@@ -282,7 +282,7 @@ Cocos Creator 资源合集
 
 ### 生成单Html包
 
-* 支持2.0\~2.3 <https://github.com/fkworld/cocos-to-playable-ad> ⭐ 113 | 🐛 7 | 🌐 TypeScript | 📅 2020-07-28
+* 支持2.0\~2.3 <https://github.com/fkworld/cocos-to-playable-ad> ⭐ 114 | 🐛 7 | 🌐 TypeScript | 📅 2020-07-28
 * 支持2.4 [https://github.com/badApple001/Cocos-Creator-Build-Tool](https://gitee.com/welcome2jcSpace/Cocos-Creator-Build-Tool)
 
 ### 优化
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
