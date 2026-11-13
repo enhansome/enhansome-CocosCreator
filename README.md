@@ -7,7 +7,7 @@ Cocos Creator 资源合集
 #### 框架
 
 * cocos creator 基础框架，包含资源、ui管理，网络模块 <https://github.com/wyb10a10/cocos_creator_framework> ⭐ 1,051 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-21
-* cocos creator项目基础类库 <https://github.com/caochao/cocos_creator_proj_base> ⭐ 845 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
+* cocos creator项目基础类库 <https://github.com/caochao/cocos_creator_proj_base> ⭐ 844 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
 * CocosCreator\_UIFrameWork <https://github.com/kirikayakazuto/CocosCreator_UIFrameWork> ⭐ 809 | 🐛 9 | 🌐 TypeScript | 📅 2024-03-20
 * cocos creator 的 mvvm 的工具 集 <https://github.com/wsssheep/cocos_creator_mvvm_tools> ⭐ 545 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24
 * GameplayFramework <https://github.com/huangx916/GameplayFramework> ⭐ 305 | 🐛 2 | 🌐 TypeScript | 📅 2019-07-31
@@ -38,7 +38,7 @@ Cocos Creator 资源合集
 
 ***
 
-* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 816 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-07
+* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 817 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-07
 * 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
 * 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 271 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
 * 七彩蹦蹦 <https://github.com/shichaohui/ColorUp> ⭐ 156 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-16
@@ -61,7 +61,7 @@ Cocos Creator 资源合集
 
 * 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 786 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 587 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
-* 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 328 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-29
+* 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 328 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-29
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
 * Creator 3D 材质系统：曲面效果如何实现 <https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA>
 * 合成大西瓜3D版本 <https://store.cocos.com/app/detail/2687>
@@ -85,12 +85,12 @@ Cocos Creator 资源合集
 
 ### 棋牌
 
-* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,099 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
+* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,101 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
-* <https://github.com/ligun123/chess> ⭐ 475 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 475 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01
+* <https://github.com/ligun123/chess> ⭐ 474 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 474 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01
 * 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 442 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
 * 学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目 <https://github.com/tumobi/pomelo-cocos-creator-awesome> ⭐ 399 | 🐛 0 | 📅 2018-11-15
-* 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 288 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
+* 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 289 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
 * poker-game-demo <https://github.com/zifeiy/poker-game-demo> ⭐ 251 | 🐛 2 | 🌐 JavaScript | 📅 2017-09-19
 * 帧同步打造3D台球 <https://github.com/EricDDK/billiards_cocos2d> ⭐ 161 | 🐛 2 | 🌐 C++ | 📅 2019-05-22
 * 棋牌类游戏框架，参考网狐 <https://github.com/shihuaping/gamex> ⭐ 157 | 🐛 4 | 🌐 JavaScript | 📅 2020-01-08
@@ -110,7 +110,7 @@ Cocos Creator 资源合集
 
 ### 官方手册
 
-* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 403 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-29
+* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 403 | 🐛 187 | 🌐 TypeScript | 📅 2026-10-29
 * 常见问题归纳 <https://github.com/Jno1995/CocosCreator-FAQ> ⭐ 36 | 🐛 0 | 📅 2022-03-14
 * 3d <https://github.com/cocos-creator/docs-3d> ⚠️ Archived
 
@@ -273,7 +273,7 @@ Cocos Creator 资源合集
 
 ### AI行为树
 
-* <https://github.com/behavior3/behavior3editor> ⭐ 705 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
+* <https://github.com/behavior3/behavior3editor> ⭐ 704 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-06
 
 ### 支持gif
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
