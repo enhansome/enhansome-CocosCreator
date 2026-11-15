@@ -1706,7 +1706,7 @@
                 "open_issues": 15,
                 "owner": "potato47",
                 "repo": "ccc-devtools",
-                "stars": 1277,
+                "stars": 1276,
                 "topics": [
                   "cocos-creator"
                 ]
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:22:03.844Z",
+    "last_updated": "2026-11-15T15:53:43.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
@@ -2341,7 +2341,7 @@
       "open_issues": 6,
       "owner": "Leo501",
       "repo": "awesome-CocosCreator",
-      "stars": 3256,
+      "stars": 3257,
       "topics": []
     },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
