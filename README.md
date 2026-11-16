@@ -7,7 +7,7 @@ Cocos Creator 资源合集
 #### 框架
 
 * cocos creator 基础框架，包含资源、ui管理，网络模块 <https://github.com/wyb10a10/cocos_creator_framework> ⭐ 1,051 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-21
-* cocos creator项目基础类库 <https://github.com/caochao/cocos_creator_proj_base> ⭐ 844 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
+* cocos creator项目基础类库 <https://github.com/caochao/cocos_creator_proj_base> ⭐ 843 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-04
 * CocosCreator\_UIFrameWork <https://github.com/kirikayakazuto/CocosCreator_UIFrameWork> ⭐ 809 | 🐛 9 | 🌐 TypeScript | 📅 2024-03-20
 * cocos creator 的 mvvm 的工具 集 <https://github.com/wsssheep/cocos_creator_mvvm_tools> ⭐ 545 | 🐛 14 | 🌐 TypeScript | 📅 2020-11-24
 * GameplayFramework <https://github.com/huangx916/GameplayFramework> ⭐ 305 | 🐛 2 | 🌐 TypeScript | 📅 2019-07-31
@@ -38,7 +38,7 @@ Cocos Creator 资源合集
 
 ***
 
-* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 817 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-07
+* 开心消消乐 <https://github.com/isghost/kaixinxiaoxiaole> ⭐ 816 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-07
 * 橡皮怪勇闯地下室 <https://github.com/shenghy/Cocos_Basement> ⭐ 326 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-17
 * 六边形消除 <https://github.com/WuBuzi/LBXGame> ⭐ 271 | 🐛 3 | 🌐 JavaScript | 📅 2016-10-09
 * 七彩蹦蹦 <https://github.com/shichaohui/ColorUp> ⭐ 156 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-16
@@ -60,7 +60,7 @@ Cocos Creator 资源合集
 #### 3d游戏
 
 * 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 786 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
-* 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 587 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
+* 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 588 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
 * 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 328 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-14
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
 * Creator 3D 材质系统：曲面效果如何实现 <https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA>
@@ -110,7 +110,7 @@ Cocos Creator 资源合集
 
 ### 官方手册
 
-* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 403 | 🐛 187 | 🌐 TypeScript | 📅 2026-10-29
+* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 403 | 🐛 187 | 🌐 TypeScript | 📅 2026-11-16
 * 常见问题归纳 <https://github.com/Jno1995/CocosCreator-FAQ> ⭐ 36 | 🐛 0 | 📅 2022-03-14
 * 3d <https://github.com/cocos-creator/docs-3d> ⚠️ Archived
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
