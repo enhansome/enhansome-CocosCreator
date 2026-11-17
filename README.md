@@ -44,7 +44,7 @@ Cocos Creator 资源合集
 * 七彩蹦蹦 <https://github.com/shichaohui/ColorUp> ⭐ 156 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-16
 * 物理弹球 <https://github.com/andynicoo/Physical-Pinball> ⭐ 155 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-15
 * 斗兽棋 <https://github.com/matchvs/AnimalChecker> ⭐ 102 | 🐛 2 | 🌐 JavaScript | 📅 2019-03-22
-* 俄罗斯方块 <https://github.com/KuoKuo666/CocosCreator-Tetris.git> ⭐ 78 | 🐛 1 | 🌐 TypeScript | 📅 2020-04-14
+* 俄罗斯方块 <https://github.com/KuoKuo666/CocosCreator-Tetris.git> ⭐ 77 | 🐛 1 | 🌐 TypeScript | 📅 2020-04-14
 * HorseRace <https://github.com/SmileChen518/HorseRace> ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-27
 * 投石对战微信小游戏 <https://github.com/jay602/stone_war> ⭐ 37 | 🐛 1 | 🌐 JavaScript | 📅 2018-11-12
 * 治愈七夕，微信小游戏，音乐游戏 <https://github.com/SmileChen518/MusicGame> ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-27
@@ -90,7 +90,7 @@ Cocos Creator 资源合集
 * <https://github.com/ligun123/chess> ⭐ 474 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 474 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01
 * 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 442 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
 * 学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目 <https://github.com/tumobi/pomelo-cocos-creator-awesome> ⭐ 399 | 🐛 0 | 📅 2018-11-15
-* 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 289 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
+* 捕鱼达人 <https://github.com/fylz1125/CCFish> ⭐ 290 | 🐛 2 | 🌐 TypeScript | 📅 2022-04-25
 * poker-game-demo <https://github.com/zifeiy/poker-game-demo> ⭐ 251 | 🐛 2 | 🌐 JavaScript | 📅 2017-09-19
 * 帧同步打造3D台球 <https://github.com/EricDDK/billiards_cocos2d> ⭐ 161 | 🐛 2 | 🌐 C++ | 📅 2019-05-22
 * 棋牌类游戏框架，参考网狐 <https://github.com/shihuaping/gamex> ⭐ 157 | 🐛 4 | 🌐 JavaScript | 📅 2020-01-08
@@ -110,7 +110,7 @@ Cocos Creator 资源合集
 
 ### 官方手册
 
-* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 403 | 🐛 187 | 🌐 TypeScript | 📅 2026-11-16
+* 2d <https://github.com/cocos-creator/creator-docs> ⭐ 403 | 🐛 186 | 🌐 TypeScript | 📅 2026-11-16
 * 常见问题归纳 <https://github.com/Jno1995/CocosCreator-FAQ> ⭐ 36 | 🐛 0 | 📅 2022-03-14
 * 3d <https://github.com/cocos-creator/docs-3d> ⚠️ Archived
 
@@ -287,7 +287,7 @@ Cocos Creator 资源合集
 
 ### 优化
 
-* 【CocosTextMeshPro】一个文本渲染解决方案——支持字体颜色渐变、斜体、下划线、删除线、描边、镂空、阴影、辉光、顶点动画、新的排版模式 <https://github.com/LeeYip/cocos-text-mesh-pro> ⭐ 222 | 🐛 3 | 🌐 TypeScript | 📅 2025-01-19
+* 【CocosTextMeshPro】一个文本渲染解决方案——支持字体颜色渐变、斜体、下划线、删除线、描边、镂空、阴影、辉光、顶点动画、新的排版模式 <https://github.com/LeeYip/cocos-text-mesh-pro> ⭐ 223 | 🐛 3 | 🌐 TypeScript | 📅 2025-01-19
 * 突破 Label 的缓存模式：CHAR 无限模式 <https://forum.cocos.org/t/label-2-char/97766>
 * 性能调优优化集锦 <https://mp.weixin.qq.com/s/OaZVFMq4vZIrVeSZb17ing>
 * 纹理压缩方案 <https://mp.weixin.qq.com/s/s-ykV2Nbp8Oc7H7PfUxW_w>
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
