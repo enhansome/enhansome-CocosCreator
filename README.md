@@ -59,7 +59,7 @@ Cocos Creator 资源合集
 
 #### 3d游戏
 
-* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 786 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
+* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 787 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 588 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
 * 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 328 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-19
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
@@ -85,7 +85,7 @@ Cocos Creator 资源合集
 
 ### 棋牌
 
-* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,102 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
+* 棋牌的胡牌算法，包括麻将、跑胡子、扑克 <https://github.com/yuanfengyun/qipai_algorithm> ⭐ 2,101 | 🐛 20 | 🌐 Lua | 📅 2024-06-14
 * 21点游戏 <https://github.com/cocos-creator/tutorial-blackjack> ⚠️ Archived
 * <https://github.com/ligun123/chess> ⭐ 474 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01 <https://github.com/ligun123/chess> ⭐ 474 | 🐛 53 | 🌐 JavaScript | 📅 2020-10-01
 * 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法 <https://github.com/xiyoufang/mahjong> ⭐ 443 | 🐛 2 | 🌐 C++ | 📅 2018-07-08
@@ -181,7 +181,7 @@ Cocos Creator 资源合集
 
 ### 调试工具
 
-* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,276 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
+* ccc-devtools <https://github.com/potato47/ccc-devtools> ⭐ 1,275 | 🐛 15 | 🌐 TypeScript | 📅 2026-04-05
 
 ### H5构建
 
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
