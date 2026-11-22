@@ -59,7 +59,7 @@ Cocos Creator 资源合集
 
 #### 3d游戏
 
-* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 787 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
+* 模拟球弹跳 <https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling> ⭐ 788 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-30
 * 官方Demo集合 <https://github.com/cocos-creator/example-3d> ⭐ 588 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-19
 * 官方testDemo <https://github.com/cocos-creator/test-cases-3d> ⭐ 328 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-19
 * 弹弹乐 <https://github.com/cocos-creator/demo-ball> ⭐ 211 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-12
@@ -313,4 +313,4 @@ Cocos Creator 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
