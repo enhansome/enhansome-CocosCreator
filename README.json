@@ -487,7 +487,7 @@
             "open_issues": 0,
             "owner": "shichaohui",
             "repo": "ColorUp",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:57.076Z"
@@ -2329,7 +2329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T20:36:48.574Z",
+    "last_updated": "2026-11-24T19:43:38.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cocos Creator 游戏资源合集",
@@ -2341,7 +2341,7 @@
       "open_issues": 6,
       "owner": "Leo501",
       "repo": "awesome-CocosCreator",
-      "stars": 3269,
+      "stars": 3272,
       "topics": []
     },
     "original_repository_sha": "ee000b1ea2c135b525fdf8d284c89042626f8d9e",
